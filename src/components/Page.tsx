@@ -11,6 +11,7 @@ const PostCard: FC<{ post: NormalizedPost }> = ({ post }) => {
   const isVideo = post.mediaType === 'video'
   const isGallery = post.mediaType === 'gallery'
   const galleryCount = post.media.gallery?.length || 0
+  const isBluesky = post.source === 'bluesky'
 
   return (
     <article class="card" data-id={post.id} data-date={String(post.date)}>
@@ -41,12 +42,12 @@ const PostCard: FC<{ post: NormalizedPost }> = ({ post }) => {
       <div class="card-body">
         <h3 class="card-title">{post.title}</h3>
         <div class="card-meta">
-          <span class="card-author">u/{post.author}</span>
-          <span class="card-sub">r/{post.subreddit}</span>
+          <span class="card-author">{isBluesky ? '' : 'u/'}{post.author}</span>
+          <span class={`card-sub${isBluesky ? ' bluesky' : ''}`}>{isBluesky ? 'bsky' : `r/${post.subreddit}`}</span>
           <span class="card-date">{dateStr}</span>
         </div>
         <a href={post.permalink} target="_blank" rel="noopener noreferrer" class="card-link">
-          View on Reddit &rarr;
+          {isBluesky ? 'View on Bluesky' : 'View on Reddit'} &rarr;
         </a>
       </div>
     </article>
@@ -61,7 +62,7 @@ export const Page: FC<{ initialData: ApiResponse }> = ({ initialData }) => {
           <h1 class="site-title">
             <span class="title-icon">&#127918;</span> Screenshot Saturday
           </h1>
-          <p class="site-subtitle">The best indie game screenshots from Reddit</p>
+          <p class="site-subtitle">The best indie game screenshots from Reddit & Bluesky</p>
           <div class="filters">
             <select id="date-filter" class="filter-select">
               <option value="all">All Time</option>

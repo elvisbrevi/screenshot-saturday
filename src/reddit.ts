@@ -5,6 +5,7 @@ import type {
   MediaInfo,
   ApiResponse,
 } from './types'
+import { fetchBlueskyPosts } from './bluesky'
 
 const SUBREDDITS = ['gamedev', 'indiegaming', 'IndieDev', 'screenshotsaturday']
 const POSTS_PER_SUB = 25
@@ -109,6 +110,7 @@ function normalizePost(raw: RedditPost): NormalizedPost | null {
     permalink: `https://www.reddit.com${post.permalink}`,
     mediaType,
     media,
+    source: 'reddit',
   }
 }
 
@@ -170,20 +172,29 @@ export async function fetchPosts(options: {
     }
   }
 
-  const results = await Promise.all(
-    SUBREDDITS.map((sub) => fetchSubreddit(sub, cursors[sub], dateFrom, dateTo))
-  )
+  const [redditResults, blueskyResult] = await Promise.all([
+    Promise.all(
+      SUBREDDITS.map((sub) => fetchSubreddit(sub, cursors[sub], dateFrom, dateTo))
+    ),
+    fetchBlueskyPosts(cursors['bluesky'], dateFrom, dateTo),
+  ])
 
   const allPosts: NormalizedPost[] = []
   const nextCursors: Record<string, string> = {}
   let hasMore = false
 
   for (let i = 0; i < SUBREDDITS.length; i++) {
-    allPosts.push(...results[i].posts)
-    if (results[i].after) {
-      nextCursors[SUBREDDITS[i]] = results[i].after!
+    allPosts.push(...redditResults[i].posts)
+    if (redditResults[i].after) {
+      nextCursors[SUBREDDITS[i]] = redditResults[i].after!
       hasMore = true
     }
+  }
+
+  allPosts.push(...blueskyResult.posts)
+  if (blueskyResult.after) {
+    nextCursors['bluesky'] = blueskyResult.after
+    hasMore = true
   }
 
   allPosts.sort((a, b) => b.date - a.date)

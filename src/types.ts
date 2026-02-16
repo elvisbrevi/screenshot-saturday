@@ -68,6 +68,40 @@ export interface NormalizedPost {
   permalink: string
   mediaType: 'image' | 'video' | 'gallery'
   media: MediaInfo
+  source: 'reddit' | 'bluesky'
+}
+
+export interface BlueskyPost {
+  uri: string
+  cid: string
+  author: {
+    did: string
+    handle: string
+    displayName?: string
+    avatar?: string
+  }
+  record: {
+    text: string
+    createdAt: string
+  }
+  embed?: {
+    $type: string
+    images?: Array<{
+      thumb: string
+      fullsize: string
+      alt?: string
+      aspectRatio?: { width: number; height: number }
+    }>
+    thumbnail?: string
+    playlist?: string
+    aspectRatio?: { width: number; height: number }
+  }
+  indexedAt: string
+}
+
+export interface BlueskySearchResponse {
+  posts: BlueskyPost[]
+  cursor?: string
 }
 
 export interface ApiResponse {

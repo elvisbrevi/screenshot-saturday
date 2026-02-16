@@ -59,6 +59,7 @@
     const isVideo = post.mediaType === 'video';
     const isGallery = post.mediaType === 'gallery';
     const galleryCount = post.media.gallery?.length || 0;
+    const isBluesky = post.source === 'bluesky';
 
     let mediaHTML;
     if (isVideo) {
@@ -73,6 +74,10 @@
 
     const badgeHTML = isGallery ? `<span class="gallery-badge">${galleryCount} images</span>` : '';
     const galleryAttr = isGallery ? ` data-gallery='${JSON.stringify(post.media.gallery).replace(/'/g, '&#39;')}'` : '';
+    const authorPrefix = isBluesky ? '' : 'u/';
+    const subClass = isBluesky ? 'card-sub bluesky' : 'card-sub';
+    const subLabel = isBluesky ? 'bsky' : `r/${esc(post.subreddit)}`;
+    const linkText = isBluesky ? 'View on Bluesky' : 'View on Reddit';
 
     return `
       <article class="card" data-id="${esc(post.id)}" data-date="${post.date}">
@@ -83,12 +88,12 @@
         <div class="card-body">
           <h3 class="card-title">${esc(post.title)}</h3>
           <div class="card-meta">
-            <span class="card-author">u/${esc(post.author)}</span>
-            <span class="card-sub">r/${esc(post.subreddit)}</span>
+            <span class="card-author">${authorPrefix}${esc(post.author)}</span>
+            <span class="${subClass}">${subLabel}</span>
             <span class="card-date">${dateStr}</span>
           </div>
           <a href="${esc(post.permalink)}" target="_blank" rel="noopener noreferrer" class="card-link">
-            View on Reddit &rarr;
+            ${linkText} &rarr;
           </a>
         </div>
       </article>`;
@@ -206,10 +211,15 @@
       galleryCounter = `<div class="modal-gallery-counter">${state.galleryIndex + 1} / ${post.media.gallery.length}</div>`;
     }
 
+    const modalIsBluesky = post.source === 'bluesky';
+    const modalAuthorPrefix = modalIsBluesky ? '' : 'u/';
+    const modalSubLabel = modalIsBluesky ? 'bsky' : `r/${esc(post.subreddit)}`;
+    const modalLinkText = modalIsBluesky ? 'View on Bluesky' : 'View on Reddit';
+
     modalInfo.innerHTML = `
       <div class="modal-info-title">${esc(post.title)}</div>
-      <div class="modal-info-meta">u/${esc(post.author)} &middot; r/${esc(post.subreddit)} &middot; ${dateStr}</div>
-      <a href="${esc(post.permalink)}" target="_blank" rel="noopener noreferrer" class="modal-info-link">View on Reddit &rarr;</a>
+      <div class="modal-info-meta">${modalAuthorPrefix}${esc(post.author)} &middot; ${modalSubLabel} &middot; ${dateStr}</div>
+      <a href="${esc(post.permalink)}" target="_blank" rel="noopener noreferrer" class="modal-info-link">${modalLinkText} &rarr;</a>
       ${galleryCounter}`;
   }
 
