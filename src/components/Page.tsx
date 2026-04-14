@@ -63,6 +63,7 @@ export const Page: FC<{ initialData: ApiResponse }> = ({ initialData }) => {
             <span class="title-icon">&#127918;</span> Screenshot Saturday
           </h1>
           <p class="site-subtitle">The best indie game screenshots from Reddit & Bluesky</p>
+          <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">&#9790;</button>
           <div class="filters">
             <select id="date-filter" class="filter-select">
               <option value="all">All Time</option>
@@ -94,8 +95,10 @@ export const Page: FC<{ initialData: ApiResponse }> = ({ initialData }) => {
           <button class="modal-close" aria-label="Close">&times;</button>
           <button class="modal-nav modal-prev" aria-label="Previous">&#10094;</button>
           <button class="modal-nav modal-next" aria-label="Next">&#10095;</button>
-          <div id="modal-media" class="modal-media"></div>
-          <div id="modal-info" class="modal-info"></div>
+          <div class="modal-inner">
+            <div id="modal-media" class="modal-media"></div>
+            <div id="modal-info" class="modal-info"></div>
+          </div>
         </div>
       </div>
 

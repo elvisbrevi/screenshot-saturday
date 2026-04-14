@@ -11,6 +11,33 @@
     dateFilter: 'all',
   };
 
+  // Theme toggle
+  (function () {
+    const root = document.documentElement;
+    const btn = document.getElementById('theme-toggle');
+    const MOON = '\u263E';
+    const SUN = '\u2600';
+
+    function getSystemTheme() {
+      return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+
+    function applyTheme(theme) {
+      root.setAttribute('data-theme', theme);
+      btn.textContent = theme === 'dark' ? SUN : MOON;
+      btn.setAttribute('aria-label', theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
+      localStorage.setItem('theme', theme);
+    }
+
+    const saved = localStorage.getItem('theme');
+    applyTheme(saved || getSystemTheme());
+
+    btn.addEventListener('click', () => {
+      const current = root.getAttribute('data-theme');
+      applyTheme(current === 'dark' ? 'light' : 'dark');
+    });
+  })();
+
   const grid = document.getElementById('posts-grid');
   const sentinel = document.getElementById('load-sentinel');
   const spinner = document.getElementById('loading-spinner');
@@ -178,11 +205,17 @@
   }
 
   function closeModal() {
-    state.modalIndex = -1;
-    modal.style.display = 'none';
-    document.body.style.overflow = '';
-    modalMedia.innerHTML = '';
-    modalInfo.innerHTML = '';
+    if (modal.classList.contains('closing')) return;
+    modal.classList.add('closing');
+    modal.addEventListener('animationend', function handler() {
+      modal.classList.remove('closing');
+      modal.style.display = 'none';
+      modal.removeEventListener('animationend', handler);
+      state.modalIndex = -1;
+      document.body.style.overflow = '';
+      modalMedia.innerHTML = '';
+      modalInfo.innerHTML = '';
+    }, { once: true });
   }
 
   function renderModal() {
@@ -219,7 +252,7 @@
     modalInfo.innerHTML = `
       <div class="modal-info-title">${esc(post.title)}</div>
       <div class="modal-info-meta">${modalAuthorPrefix}${esc(post.author)} &middot; ${modalSubLabel} &middot; ${dateStr}</div>
-      <a href="${esc(post.permalink)}" target="_blank" rel="noopener noreferrer" class="modal-info-link">${modalLinkText} &rarr;</a>
+      <a href="${esc(post.permalink)}" target="_blank" rel="noopener noreferrer" class="modal-info-link${modalIsBluesky ? ' bluesky' : ''}">${modalLinkText} &rarr;</a>
       ${galleryCounter}`;
   }
 
@@ -246,12 +279,12 @@
     }
   }
 
-  // Click on card media -> open modal
+  // Click on card -> open modal (exclude card-link clicks)
   grid.addEventListener('click', (e) => {
-    const mediaEl = e.target.closest('.card-media');
-    if (!mediaEl) return;
-    const card = mediaEl.closest('.card');
-    const id = card?.dataset.id;
+    if (e.target.closest('.card-link')) return;
+    const card = e.target.closest('.card');
+    if (!card) return;
+    const id = card.dataset.id;
     const idx = state.posts.findIndex((p) => p.id === id);
     if (idx !== -1) openModal(idx);
   });
