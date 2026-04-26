@@ -86,7 +86,7 @@
     const isVideo = post.mediaType === 'video';
     const isGallery = post.mediaType === 'gallery';
     const galleryCount = post.media.gallery?.length || 0;
-    const isBluesky = post.source === 'bluesky';
+    const source = post.source;
 
     let mediaHTML;
     if (isVideo) {
@@ -101,10 +101,22 @@
 
     const badgeHTML = isGallery ? `<span class="gallery-badge">${galleryCount} images</span>` : '';
     const galleryAttr = isGallery ? ` data-gallery='${JSON.stringify(post.media.gallery).replace(/'/g, '&#39;')}'` : '';
-    const authorPrefix = isBluesky ? '' : 'u/';
-    const subClass = isBluesky ? 'card-sub bluesky' : 'card-sub';
-    const subLabel = isBluesky ? 'bsky' : `r/${esc(post.subreddit)}`;
-    const linkText = isBluesky ? 'View on Bluesky' : 'View on Reddit';
+    const authorPrefix = source === 'reddit' ? 'u/' : source === 'mastodon' ? '@' : '';
+    const subClass = source === 'bluesky'
+      ? 'card-sub bluesky'
+      : source === 'mastodon'
+        ? 'card-sub mastodon'
+        : 'card-sub';
+    const subLabel = source === 'bluesky'
+      ? 'bsky'
+      : source === 'mastodon'
+        ? 'mastodon'
+        : `r/${esc(post.subreddit)}`;
+    const linkText = source === 'bluesky'
+      ? 'View on Bluesky'
+      : source === 'mastodon'
+        ? 'View on Mastodon'
+        : 'View on Reddit';
 
     return `
       <article class="card" data-id="${esc(post.id)}" data-date="${post.date}">
@@ -244,15 +256,28 @@
       galleryCounter = `<div class="modal-gallery-counter">${state.galleryIndex + 1} / ${post.media.gallery.length}</div>`;
     }
 
-    const modalIsBluesky = post.source === 'bluesky';
-    const modalAuthorPrefix = modalIsBluesky ? '' : 'u/';
-    const modalSubLabel = modalIsBluesky ? 'bsky' : `r/${esc(post.subreddit)}`;
-    const modalLinkText = modalIsBluesky ? 'View on Bluesky' : 'View on Reddit';
+    const src = post.source;
+    const modalAuthorPrefix = src === 'reddit' ? 'u/' : src === 'mastodon' ? '@' : '';
+    const modalSubLabel = src === 'bluesky'
+      ? 'bsky'
+      : src === 'mastodon'
+        ? 'mastodon'
+        : `r/${esc(post.subreddit)}`;
+    const modalLinkText = src === 'bluesky'
+      ? 'View on Bluesky'
+      : src === 'mastodon'
+        ? 'View on Mastodon'
+        : 'View on Reddit';
+    const modalLinkClass = src === 'bluesky'
+      ? ' bluesky'
+      : src === 'mastodon'
+        ? ' mastodon'
+        : '';
 
     modalInfo.innerHTML = `
       <div class="modal-info-title">${esc(post.title)}</div>
       <div class="modal-info-meta">${modalAuthorPrefix}${esc(post.author)} &middot; ${modalSubLabel} &middot; ${dateStr}</div>
-      <a href="${esc(post.permalink)}" target="_blank" rel="noopener noreferrer" class="modal-info-link${modalIsBluesky ? ' bluesky' : ''}">${modalLinkText} &rarr;</a>
+      <a href="${esc(post.permalink)}" target="_blank" rel="noopener noreferrer" class="modal-info-link${modalLinkClass}">${modalLinkText} &rarr;</a>
       ${galleryCounter}`;
   }
 

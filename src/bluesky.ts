@@ -104,12 +104,13 @@ function normalizePost(post: BlueskyPost): NormalizedPost | null {
 }
 
 export async function fetchBlueskyPosts(
+  hashtag: string,
   cursor?: string,
   dateFrom?: number,
   dateTo?: number
 ): Promise<{ posts: NormalizedPost[]; after: string | null }> {
   const params = new URLSearchParams({
-    q: '#screenshotsaturday',
+    q: `#${hashtag}`,
     sort: 'latest',
     limit: String(POSTS_LIMIT),
   })

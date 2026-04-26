@@ -68,7 +68,7 @@ export interface NormalizedPost {
   permalink: string
   mediaType: 'image' | 'video' | 'gallery'
   media: MediaInfo
-  source: 'reddit' | 'bluesky'
+  source: 'reddit' | 'bluesky' | 'mastodon'
 }
 
 export interface BlueskyPost {
@@ -108,4 +108,29 @@ export interface ApiResponse {
   posts: NormalizedPost[]
   nextCursor: string | null
   hasMore: boolean
+}
+
+export interface MastodonAttachment {
+  id: string
+  type: 'image' | 'video' | 'gifv' | 'audio' | 'unknown'
+  url: string
+  preview_url: string
+  meta?: {
+    original?: { width?: number; height?: number }
+    small?: { width?: number; height?: number }
+  }
+  description?: string | null
+}
+
+export interface MastodonStatus {
+  id: string
+  created_at: string
+  url: string
+  account: {
+    username: string
+    display_name: string
+    url: string
+  }
+  content: string
+  media_attachments: MastodonAttachment[]
 }
