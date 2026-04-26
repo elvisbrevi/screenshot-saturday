@@ -9,7 +9,7 @@ export const renderer = jsxRenderer(({ children }) => {
         <title>Screenshot Saturday — Indie Game Screenshots</title>
         <meta
           name="description"
-          content="Browse the best #ScreenshotSaturday posts from Reddit's game dev communities."
+          content="Browse the best #ScreenshotSaturday and #gamedev posts from Reddit, Bluesky and Mastodon."
         />
         <link href="/static/style.css" rel="stylesheet" />
       </head>

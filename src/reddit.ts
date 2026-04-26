@@ -6,8 +6,10 @@ import type {
   ApiResponse,
 } from './types'
 import { fetchBlueskyPosts } from './bluesky'
+import { fetchMastodonPosts } from './mastodon'
 
 const SUBREDDITS = ['gamedev', 'indiegaming', 'IndieDev', 'screenshotsaturday']
+const HASHTAGS = ['screenshotsaturday', 'gamedev']
 const POSTS_PER_SUB = 25
 const USER_AGENT = 'screenshot-saturday/1.0'
 
@@ -172,11 +174,20 @@ export async function fetchPosts(options: {
     }
   }
 
-  const [redditResults, blueskyResult] = await Promise.all([
+  const [redditResults, blueskyResults, mastodonResults] = await Promise.all([
     Promise.all(
       SUBREDDITS.map((sub) => fetchSubreddit(sub, cursors[sub], dateFrom, dateTo))
     ),
-    fetchBlueskyPosts(cursors['bluesky'], dateFrom, dateTo),
+    Promise.all(
+      HASHTAGS.map((tag) =>
+        fetchBlueskyPosts(tag, cursors[`bsky:${tag}`], dateFrom, dateTo)
+      )
+    ),
+    Promise.all(
+      HASHTAGS.map((tag) =>
+        fetchMastodonPosts(tag, cursors[`masto:${tag}`], dateFrom, dateTo)
+      )
+    ),
   ])
 
   const allPosts: NormalizedPost[] = []
@@ -191,15 +202,31 @@ export async function fetchPosts(options: {
     }
   }
 
-  allPosts.push(...blueskyResult.posts)
-  if (blueskyResult.after) {
-    nextCursors['bluesky'] = blueskyResult.after
-    hasMore = true
+  for (let i = 0; i < HASHTAGS.length; i++) {
+    allPosts.push(...blueskyResults[i].posts)
+    if (blueskyResults[i].after) {
+      nextCursors[`bsky:${HASHTAGS[i]}`] = blueskyResults[i].after!
+      hasMore = true
+    }
+    allPosts.push(...mastodonResults[i].posts)
+    if (mastodonResults[i].after) {
+      nextCursors[`masto:${HASHTAGS[i]}`] = mastodonResults[i].after!
+      hasMore = true
+    }
   }
 
-  allPosts.sort((a, b) => b.date - a.date)
+  // Dedupe across overlapping hashtag searches
+  const seen = new Set<string>()
+  const dedup: NormalizedPost[] = []
+  for (const post of allPosts) {
+    if (seen.has(post.id)) continue
+    seen.add(post.id)
+    dedup.push(post)
+  }
+
+  dedup.sort((a, b) => b.date - a.date)
 
   const nextCursor = hasMore ? btoa(JSON.stringify(nextCursors)) : null
 
-  return { posts: allPosts, nextCursor, hasMore }
+  return { posts: dedup, nextCursor, hasMore }
 }
