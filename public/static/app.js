@@ -8,33 +8,42 @@
     loading: false,
     modalIndex: -1,
     galleryIndex: 0,
-    dateFilter: 'all',
+  };
+
+  // SVG icon strings
+  const ICONS = {
+    moon: '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>',
+    sun: '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>',
+    play: '<svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><polygon points="5,3 19,12 5,21"/></svg>',
+    gallery: '<svg viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg>',
+    arrow: '<svg viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>',
+    close: '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>',
+    chevronLeft: '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>',
+    chevronRight: '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>',
   };
 
   // Theme toggle
   (function () {
     const root = document.documentElement;
     const btn = document.getElementById('theme-toggle');
-    const MOON = '\u263E';
-    const SUN = '\u2600';
-
-    function getSystemTheme() {
-      return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-    }
+    const isDark = () => root.getAttribute('data-theme') === 'dark';
 
     function applyTheme(theme) {
       root.setAttribute('data-theme', theme);
-      btn.textContent = theme === 'dark' ? SUN : MOON;
+      btn.innerHTML = theme === 'dark' ? ICONS.sun : ICONS.moon;
       btn.setAttribute('aria-label', theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
       localStorage.setItem('theme', theme);
+    }
+
+    function getSystemTheme() {
+      return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
     }
 
     const saved = localStorage.getItem('theme');
     applyTheme(saved || getSystemTheme());
 
     btn.addEventListener('click', () => {
-      const current = root.getAttribute('data-theme');
-      applyTheme(current === 'dark' ? 'light' : 'dark');
+      applyTheme(isDark() ? 'light' : 'dark');
     });
   })();
 
@@ -45,30 +54,11 @@
   const modal = document.getElementById('modal');
   const modalMedia = document.getElementById('modal-media');
   const modalInfo = document.getElementById('modal-info');
-  const dateFilter = document.getElementById('date-filter');
-
-  // Date filter ranges
-  function getDateRange(filter) {
-    const now = Math.floor(Date.now() / 1000);
-    switch (filter) {
-      case 'week':
-        return { date_from: now - 7 * 86400, date_to: now };
-      case 'month':
-        return { date_from: now - 30 * 86400, date_to: now };
-      case '3months':
-        return { date_from: now - 90 * 86400, date_to: now };
-      default:
-        return {};
-    }
-  }
 
   // Fetch posts from API
   async function fetchPosts(cursor) {
     const params = new URLSearchParams();
     if (cursor) params.set('after', cursor);
-    const range = getDateRange(state.dateFilter);
-    if (range.date_from) params.set('date_from', String(range.date_from));
-    if (range.date_to) params.set('date_to', String(range.date_to));
 
     const res = await fetch('/api/posts?' + params.toString());
     if (!res.ok) throw new Error('API error: ' + res.status);
@@ -93,20 +83,24 @@
       mediaHTML = `
         <div class="video-thumb">
           <img src="${esc(post.media.thumbnail)}" alt="${esc(post.title)}" loading="lazy" />
-          <div class="play-icon">&#9654;</div>
+          <div class="play-icon">${ICONS.play}</div>
         </div>`;
     } else {
       mediaHTML = `<img src="${esc(post.media.thumbnail)}" alt="${esc(post.title)}" loading="lazy" />`;
     }
 
-    const badgeHTML = isGallery ? `<span class="gallery-badge">${galleryCount} images</span>` : '';
-    const galleryAttr = isGallery ? ` data-gallery='${JSON.stringify(post.media.gallery).replace(/'/g, '&#39;')}'` : '';
+    const badgeHTML = isGallery
+      ? `<span class="gallery-badge">${ICONS.gallery} ${galleryCount}</span>`
+      : '';
+    const galleryAttr = isGallery
+      ? ` data-gallery='${JSON.stringify(post.media.gallery).replace(/'/g, '&#39;')}'`
+      : '';
     const authorPrefix = source === 'reddit' ? 'u/' : source === 'mastodon' ? '@' : '';
     const subClass = source === 'bluesky'
       ? 'card-sub bluesky'
       : source === 'mastodon'
         ? 'card-sub mastodon'
-        : 'card-sub';
+        : 'card-sub reddit';
     const subLabel = source === 'bluesky'
       ? 'bsky'
       : source === 'mastodon'
@@ -117,6 +111,10 @@
       : source === 'mastodon'
         ? 'View on Mastodon'
         : 'View on Reddit';
+    const description = visibleDescription(post);
+    const descriptionHTML = description
+      ? `<p class="card-description">${esc(description)}</p>`
+      : '';
 
     return `
       <article class="card" data-id="${esc(post.id)}" data-date="${post.date}">
@@ -126,16 +124,27 @@
         </div>
         <div class="card-body">
           <h3 class="card-title">${esc(post.title)}</h3>
+          ${descriptionHTML}
           <div class="card-meta">
             <span class="card-author">${authorPrefix}${esc(post.author)}</span>
             <span class="${subClass}">${subLabel}</span>
             <span class="card-date">${dateStr}</span>
           </div>
           <a href="${esc(post.permalink)}" target="_blank" rel="noopener noreferrer" class="card-link">
-            ${linkText} &rarr;
+            ${linkText} ${ICONS.arrow}
           </a>
         </div>
       </article>`;
+  }
+
+  function visibleDescription(post) {
+    const description = (post.description || '').trim();
+    if (!description) return '';
+
+    const title = (post.title || '').trim();
+    if (description === title || description.startsWith(title + '...')) return '';
+
+    return description;
   }
 
   function esc(str) {
@@ -152,7 +161,6 @@
 
     try {
       const data = await fetchPosts(state.nextCursor);
-      // Deduplicate
       const existingIds = new Set(state.posts.map((p) => p.id));
       const newPosts = data.posts.filter((p) => !existingIds.has(p.id));
 
@@ -182,16 +190,6 @@
     }
   }
 
-  // Reset grid with new filter
-  async function resetGrid() {
-    state.posts = [];
-    state.nextCursor = null;
-    state.hasMore = true;
-    grid.innerHTML = '';
-    noPostsEl.style.display = 'none';
-    await loadMore();
-  }
-
   // Infinite scroll
   const observer = new IntersectionObserver(
     (entries) => {
@@ -200,12 +198,6 @@
     { rootMargin: '600px' }
   );
   observer.observe(sentinel);
-
-  // Date filter
-  dateFilter.addEventListener('change', (e) => {
-    state.dateFilter = e.target.value;
-    resetGrid();
-  });
 
   // Modal
   function openModal(index) {
@@ -277,7 +269,7 @@
     modalInfo.innerHTML = `
       <div class="modal-info-title">${esc(post.title)}</div>
       <div class="modal-info-meta">${modalAuthorPrefix}${esc(post.author)} &middot; ${modalSubLabel} &middot; ${dateStr}</div>
-      <a href="${esc(post.permalink)}" target="_blank" rel="noopener noreferrer" class="modal-info-link${modalLinkClass}">${modalLinkText} &rarr;</a>
+      <a href="${esc(post.permalink)}" target="_blank" rel="noopener noreferrer" class="modal-info-link${modalLinkClass}">${modalLinkText} ${ICONS.arrow}</a>
       ${galleryCounter}`;
   }
 
@@ -285,7 +277,6 @@
     const post = state.posts[state.modalIndex];
     if (!post) return;
 
-    // Gallery navigation
     if (post.mediaType === 'gallery' && post.media.gallery) {
       const newIdx = state.galleryIndex + dir;
       if (newIdx >= 0 && newIdx < post.media.gallery.length) {
@@ -295,7 +286,6 @@
       }
     }
 
-    // Post navigation
     const newIndex = state.modalIndex + dir;
     if (newIndex >= 0 && newIndex < state.posts.length) {
       state.modalIndex = newIndex;
@@ -316,6 +306,9 @@
 
   // Modal controls
   modal.querySelector('.modal-backdrop').addEventListener('click', closeModal);
+  modal.querySelector('.modal-content').addEventListener('click', (e) => {
+    if (e.target === e.currentTarget) closeModal();
+  });
   modal.querySelector('.modal-close').addEventListener('click', closeModal);
   modal.querySelector('.modal-prev').addEventListener('click', () => navigateModal(-1));
   modal.querySelector('.modal-next').addEventListener('click', () => navigateModal(1));

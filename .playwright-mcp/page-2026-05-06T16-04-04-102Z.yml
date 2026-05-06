@@ -1,0 +1,2612 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "Screenshot Saturday home" [ref=e4] [cursor=pointer]:
+      - /url: /
+      - img [ref=e5]
+    - generic [ref=e7]:
+      - link "View source on GitHub" [ref=e8] [cursor=pointer]:
+        - /url: https://github.com/elvisbrevi/screenshot-saturday
+        - img [ref=e9]
+      - button "Switch to light mode" [ref=e11] [cursor=pointer]:
+        - img [ref=e12]
+  - banner [ref=e18]:
+    - heading "Screenshot Saturday" [level=1] [ref=e19]
+    - paragraph [ref=e20]: The best indie game screenshots from across the fediverse and Reddit.
+    - list "Sources" [ref=e21]:
+      - listitem [ref=e22]: Reddit
+      - listitem [ref=e24]: Bluesky
+      - listitem [ref=e26]: Mastodon
+      - listitem [ref=e28]: "#screenshotsaturday"
+      - listitem [ref=e30]: "#gamedev"
+  - main [ref=e32]:
+    - generic [ref=e33]:
+      - article [ref=e34] [cursor=pointer]:
+        - generic [ref=e36]:
+          - img "I just released a streamlined version of Pacman, that runs smoothly in your browser. Share suggestions or feedback—I’m" [ref=e37]
+          - generic:
+            - img
+        - generic [ref=e38]:
+          - heading "I just released a streamlined version of Pacman, that runs smoothly in your browser. Share suggestions or feedback—I’m" [level=3] [ref=e39]
+          - paragraph [ref=e40]: I just released a streamlined version of Pacman, that runs smoothly in your browser. Share suggestions or feedback—I’m all ears. Snap a screenshot if you reach level 50—I’ll follow you! 🕹️ https:/
+          - generic [ref=e41]:
+            - generic [ref=e42]: snow-kiss
+            - generic [ref=e43]: bsky
+            - generic [ref=e44]: May 6, 2026
+          - link "View on Bluesky" [ref=e45]:
+            - /url: https://bsky.app/profile/snow-kiss.bsky.social/post/3ml736y53po2e
+            - text: View on Bluesky
+            - img [ref=e46]
+      - article [ref=e48] [cursor=pointer]:
+        - generic [ref=e50]:
+          - img "So - wanna get a simple Godot demo project on how to switch between UI themes? If you’re a Line+ member of my Patreon, g" [ref=e51]
+          - generic:
+            - img
+        - generic [ref=e52]:
+          - heading "So - wanna get a simple Godot demo project on how to switch between UI themes? If you’re a Line+ member of my Patreon, g" [level=3] [ref=e53]
+          - paragraph [ref=e54]: "So - wanna get a simple Godot demo project on how to switch between UI themes? If you’re a Line+ member of my Patreon, get this reward now 🔥 👉 www.patreon.com/posts/157539... #gamedev #game #godot"
+          - generic [ref=e55]:
+            - generic [ref=e56]: Mina Pêcheux 🔶 WISHLIST Locktale & type:def on Steam!
+            - generic [ref=e57]: bsky
+            - generic [ref=e58]: May 6, 2026
+          - link "View on Bluesky" [ref=e59]:
+            - /url: https://bsky.app/profile/minapecheux.bsky.social/post/3ml734shiks22
+            - text: View on Bluesky
+            - img [ref=e60]
+      - article [ref=e62] [cursor=pointer]:
+        - 'img "Free alien pinball in your browser. No download, no install, no ads. 🛸 focaccai.itch.io/alien-pinball #gamedev #aigam" [ref=e64]'
+        - generic [ref=e65]:
+          - 'heading "Free alien pinball in your browser. No download, no install, no ads. 🛸 focaccai.itch.io/alien-pinball #gamedev #aigam" [level=3] [ref=e66]'
+          - paragraph [ref=e67]: "Free alien pinball in your browser. No download, no install, no ads. 🛸 focaccai.itch.io/alien-pinball #gamedev #aigamedev #pinbal"
+          - generic [ref=e68]:
+            - generic [ref=e69]: Focaccai Games
+            - generic [ref=e70]: bsky
+            - generic [ref=e71]: May 6, 2026
+          - link "View on Bluesky" [ref=e72]:
+            - /url: https://bsky.app/profile/focaccai.bsky.social/post/3ml732e4os22g
+            - text: View on Bluesky
+            - img [ref=e73]
+      - article [ref=e75] [cursor=pointer]:
+        - generic [ref=e76]:
+          - 'img "I have a side-project to share: I designed a tiny model of MindVenture hero using their special ability: Digging! 🌸 If" [ref=e77]'
+          - generic [ref=e78]:
+            - img [ref=e79]
+            - text: "2"
+        - generic [ref=e83]:
+          - 'heading "I have a side-project to share: I designed a tiny model of MindVenture hero using their special ability: Digging! 🌸 If" [level=3] [ref=e84]'
+          - paragraph [ref=e85]: "I have a side-project to share: I designed a tiny model of MindVenture hero using their special ability: Digging! 🌸 If you have a 3D Printer, the link is below ⤵️ #gamedev #3dprinting #3dprint"
+          - generic [ref=e86]:
+            - generic [ref=e87]: Vhalenn🐶Wishlist MindVenture 🌸
+            - generic [ref=e88]: bsky
+            - generic [ref=e89]: May 6, 2026
+          - link "View on Bluesky" [ref=e90]:
+            - /url: https://bsky.app/profile/vhalenn.bsky.social/post/3ml72ti6mzc23
+            - text: View on Bluesky
+            - img [ref=e91]
+      - article [ref=e93] [cursor=pointer]:
+        - 'img "Some more background design, still missing some UI but its fine #pixelart #gamedev #indiedev" [ref=e95]'
+        - generic [ref=e96]:
+          - 'heading "Some more background design, still missing some UI but its fine #pixelart #gamedev #indiedev" [level=3] [ref=e97]'
+          - generic [ref=e98]:
+            - generic [ref=e99]: Mudkip_ninja
+            - generic [ref=e100]: bsky
+            - generic [ref=e101]: May 6, 2026
+          - link "View on Bluesky" [ref=e102]:
+            - /url: https://bsky.app/profile/cccretina.bsky.social/post/3ml72puj5qs23
+            - text: View on Bluesky
+            - img [ref=e103]
+      - article [ref=e105] [cursor=pointer]:
+        - generic [ref=e107]:
+          - 'img "Quick combo of the next fighter, Crème. Will go into detail about her kit over the next coming days. #gamedev #fgc #pixe" [ref=e108]'
+          - generic:
+            - img
+        - generic [ref=e109]:
+          - 'heading "Quick combo of the next fighter, Crème. Will go into detail about her kit over the next coming days. #gamedev #fgc #pixe" [level=3] [ref=e110]'
+          - paragraph [ref=e111]: "Quick combo of the next fighter, Crème. Will go into detail about her kit over the next coming days. #gamedev #fgc #pixelart"
+          - generic [ref=e112]:
+            - generic [ref=e113]: Roeb - WISHLIST 52BEATUP NOWW
+            - generic [ref=e114]: bsky
+            - generic [ref=e115]: May 6, 2026
+          - link "View on Bluesky" [ref=e116]:
+            - /url: https://bsky.app/profile/roeb.exs.gay/post/3ml72pggxis2e
+            - text: View on Bluesky
+            - img [ref=e117]
+      - article [ref=e119] [cursor=pointer]:
+        - 'img "Good dev day ✔️ Brain dump complete ✔️ Now it’s just me, a quiet path, and some well-earned downtime. 🌳🎮 #indiegame #g" [ref=e121]'
+        - generic [ref=e122]:
+          - 'heading "Good dev day ✔️ Brain dump complete ✔️ Now it’s just me, a quiet path, and some well-earned downtime. 🌳🎮 #indiegame #g" [level=3] [ref=e123]'
+          - paragraph [ref=e124]: "Good dev day ✔️ Brain dump complete ✔️ Now it’s just me, a quiet path, and some well-earned downtime. 🌳🎮 #indiegame #gamedev #solodev"
+          - generic [ref=e125]:
+            - generic [ref=e126]: David makes games - Solo game developer
+            - generic [ref=e127]: bsky
+            - generic [ref=e128]: May 6, 2026
+          - link "View on Bluesky" [ref=e129]:
+            - /url: https://bsky.app/profile/reiddavi.bsky.social/post/3ml72oefqz22r
+            - text: View on Bluesky
+            - img [ref=e130]
+      - article [ref=e132] [cursor=pointer]:
+        - 'img "I slept through the moment it happened, but you can still help me see the next significant number) #indiegames #indiedev" [ref=e134]'
+        - generic [ref=e135]:
+          - 'heading "I slept through the moment it happened, but you can still help me see the next significant number) #indiegames #indiedev" [level=3] [ref=e136]'
+          - paragraph [ref=e137]: "I slept through the moment it happened, but you can still help me see the next significant number) #indiegames #indiedev #steam #gamedev"
+          - generic [ref=e138]:
+            - generic [ref=e139]: WellDone
+            - generic [ref=e140]: bsky
+            - generic [ref=e141]: May 6, 2026
+          - link "View on Bluesky" [ref=e142]:
+            - /url: https://bsky.app/profile/zanzaba.bsky.social/post/3ml72nplip22u
+            - text: View on Bluesky
+            - img [ref=e143]
+      - article [ref=e145] [cursor=pointer]:
+        - 'img "✨ NAGIS ✨ B2B conference and industry with Nolan Bushnell is coming up! 🎉 Date 📅: JUN 18-19, 2026 Location 🏙️: Edmo" [ref=e147]'
+        - generic [ref=e148]:
+          - 'heading "✨ NAGIS ✨ B2B conference and industry with Nolan Bushnell is coming up! 🎉 Date 📅: JUN 18-19, 2026 Location 🏙️: Edmo" [level=3] [ref=e149]'
+          - paragraph [ref=e150]: "✨ NAGIS ✨ B2B conference and industry with Nolan Bushnell is coming up! 🎉 Date 📅: JUN 18-19, 2026 Location 🏙️: Edmonton, Canada More about the event at: www.eventsforgamers.com/event/nagis-... #"
+          - generic [ref=e151]:
+            - generic [ref=e152]: Game Conference+Convention Industry Event Calendar
+            - generic [ref=e153]: bsky
+            - generic [ref=e154]: May 6, 2026
+          - link "View on Bluesky" [ref=e155]:
+            - /url: https://bsky.app/profile/eventsforgamers.bsky.social/post/3ml72maov622r
+            - text: View on Bluesky
+            - img [ref=e156]
+      - article [ref=e158] [cursor=pointer]:
+        - generic [ref=e160]:
+          - img "Monkey Bizniz Gameplay Teaser 🍌🐒 Chaotic co-op, physics madness, and banana-fueled disaster. Push your cart, dodge ob" [ref=e161]
+          - generic:
+            - img
+        - generic [ref=e162]:
+          - heading "Monkey Bizniz Gameplay Teaser 🍌🐒 Chaotic co-op, physics madness, and banana-fueled disaster. Push your cart, dodge ob" [level=3] [ref=e163]
+          - paragraph [ref=e164]: "Monkey Bizniz Gameplay Teaser 🍌🐒 Chaotic co-op, physics madness, and banana-fueled disaster. Push your cart, dodge obstacles, don’t sabotage your team… or do. Can you reach the top? Wishlist now:"
+          - generic [ref=e165]:
+            - generic [ref=e166]: STARLIGHT GAMES UK
+            - generic [ref=e167]: bsky
+            - generic [ref=e168]: May 6, 2026
+          - link "View on Bluesky" [ref=e169]:
+            - /url: https://bsky.app/profile/starlightgamesuk.bsky.social/post/3ml72lflwy22v
+            - text: View on Bluesky
+            - img [ref=e170]
+      - article [ref=e172] [cursor=pointer]:
+        - generic [ref=e174]:
+          - img "I've been doing a bit of mastering and decided I might as well repost some of the tracks I made for my game. Here's 'Gho" [ref=e175]
+          - generic:
+            - img
+        - generic [ref=e176]:
+          - heading "I've been doing a bit of mastering and decided I might as well repost some of the tracks I made for my game. Here's 'Gho" [level=3] [ref=e177]
+          - paragraph [ref=e178]: "I've been doing a bit of mastering and decided I might as well repost some of the tracks I made for my game. Here's 'Ghosts' 👻 #indiegame #gamedev #music #darkrooms"
+          - generic [ref=e179]:
+            - generic [ref=e180]: Matt - Play DARK ROOMS on Steam now! :)
+            - generic [ref=e181]: bsky
+            - generic [ref=e182]: May 6, 2026
+          - link "View on Bluesky" [ref=e183]:
+            - /url: https://bsky.app/profile/pmrd.net/post/3ml72iq2v2225
+            - text: View on Bluesky
+            - img [ref=e184]
+      - article [ref=e186] [cursor=pointer]:
+        - generic [ref=e188]:
+          - img "I made a new enemy for the game, it’s the clarinetist, they explode and throws projectiles in multiple directions causin" [ref=e189]
+          - generic:
+            - img
+        - generic [ref=e190]:
+          - heading "I made a new enemy for the game, it’s the clarinetist, they explode and throws projectiles in multiple directions causin" [level=3] [ref=e191]
+          - paragraph [ref=e192]: I made a new enemy for the game, it’s the clarinetist, they explode and throws projectiles in multiple directions causing damage to anything in their way. With this one I just need to do two more enem
+          - generic [ref=e193]:
+            - generic [ref=e194]: MrDeckTC
+            - generic [ref=e195]: bsky
+            - generic [ref=e196]: May 6, 2026
+          - link "View on Bluesky" [ref=e197]:
+            - /url: https://bsky.app/profile/mrdecktc.bsky.social/post/3ml72ioclbs2b
+            - text: View on Bluesky
+            - img [ref=e198]
+      - article [ref=e200] [cursor=pointer]:
+        - generic [ref=e202]:
+          - img "Ever wondered what palette systems looked like under the hood? In Cooking Fist, each character is separated into regions" [ref=e203]
+          - generic:
+            - img
+        - generic [ref=e204]:
+          - heading "Ever wondered what palette systems looked like under the hood? In Cooking Fist, each character is separated into regions" [level=3] [ref=e205]
+          - paragraph [ref=e206]: "Ever wondered what palette systems looked like under the hood? In Cooking Fist, each character is separated into regions that can hueshifted in engine #gamedev #indiedev #fightinggames"
+          - generic [ref=e207]:
+            - generic [ref=e208]: Cooking Fist🔜Combo Breaker 2026
+            - generic [ref=e209]: bsky
+            - generic [ref=e210]: May 6, 2026
+          - link "View on Bluesky" [ref=e211]:
+            - /url: https://bsky.app/profile/cookingfist.bsky.social/post/3ml725brf5k22
+            - text: View on Bluesky
+            - img [ref=e212]
+      - article [ref=e214] [cursor=pointer]:
+        - img "April 2026 - Month in Review, Top 10 Posts, and Website Reboot Coming Soon... - r/DreamStationcc https://www.reddit.com/" [ref=e216]
+        - generic [ref=e217]:
+          - heading "April 2026 - Month in Review, Top 10 Posts, and Website Reboot Coming Soon... - r/DreamStationcc https://www.reddit.com/" [level=3] [ref=e218]
+          - paragraph [ref=e219]: April 2026 - Month in Review, Top 10 Posts, and Website Reboot Coming Soon... - r/DreamStationcc https://www.reddit.com/r/DreamStationcc/comments/1t5g5rt/april_2026_month_in_review_top_10_posts_and/ S
+          - generic [ref=e220]:
+            - generic [ref=e221]: "@DreamStation.cc"
+            - generic [ref=e222]: mastodon
+            - generic [ref=e223]: May 6, 2026
+          - link "View on Mastodon" [ref=e224]:
+            - /url: https://mastodon.social/@DreamStationcc/116528375539617437
+            - text: View on Mastodon
+            - img [ref=e225]
+      - article [ref=e227] [cursor=pointer]:
+        - generic [ref=e229]:
+          - img "Ugh, these alien customers... they just can’t wait and always try to snatch the fillings straight out of the burger! htt" [ref=e230]
+          - generic:
+            - img
+        - generic [ref=e231]:
+          - heading "Ugh, these alien customers... they just can’t wait and always try to snatch the fillings straight out of the burger! htt" [level=3] [ref=e232]
+          - paragraph [ref=e233]: "Ugh, these alien customers... they just can’t wait and always try to snatch the fillings straight out of the burger! https://store.steampowered.com/app/4225180/Make_Burgers_GRILL_UP #gamedev #pixelart"
+          - generic [ref=e234]:
+            - generic [ref=e235]: "@BUG-Studio | Indie Developer"
+            - generic [ref=e236]: mastodon
+            - generic [ref=e237]: May 6, 2026
+          - link "View on Mastodon" [ref=e238]:
+            - /url: https://mastodon.social/@BUG_Studio/116528254994095321
+            - text: View on Mastodon
+            - img [ref=e239]
+      - article [ref=e241] [cursor=pointer]:
+        - img "Unity AI is not Muse 2.0. Muse felt like an AI side tool. Unity AI feels closer to the editor workflow. My quick take on" [ref=e243]
+        - generic [ref=e244]:
+          - heading "Unity AI is not Muse 2.0. Muse felt like an AI side tool. Unity AI feels closer to the editor workflow. My quick take on" [level=3] [ref=e245]
+          - paragraph [ref=e246]: "Unity AI is not Muse 2.0. Muse felt like an AI side tool. Unity AI feels closer to the editor workflow. My quick take on what changed 👇 https://businessofgames.icartic.com/p/unity-ai-is-not-muse-20 #"
+          - generic [ref=e247]:
+            - generic [ref=e248]: "@Cartic P"
+            - generic [ref=e249]: mastodon
+            - generic [ref=e250]: May 6, 2026
+          - link "View on Mastodon" [ref=e251]:
+            - /url: https://mastodon.social/@cartic/116528254011963672
+            - text: View on Mastodon
+            - img [ref=e252]
+      - article [ref=e254] [cursor=pointer]:
+        - generic [ref=e256]:
+          - img "WHITE CURTAINS is fully released today! It's a very short RPG inspired by the Pathologic series, and you can play it on" [ref=e257]
+          - generic:
+            - img
+        - generic [ref=e258]:
+          - heading "WHITE CURTAINS is fully released today! It's a very short RPG inspired by the Pathologic series, and you can play it on" [level=3] [ref=e259]
+          - paragraph [ref=e260]: WHITE CURTAINS is fully released today! It's a very short RPG inspired by the Pathologic series, and you can play it on mobile or PC, with only arrow keys or FPS controls! Go play it on https://gameha
+          - generic [ref=e261]:
+            - generic [ref=e262]: "@fabiosantoscode"
+            - generic [ref=e263]: mastodon
+            - generic [ref=e264]: May 6, 2026
+          - link "View on Mastodon" [ref=e265]:
+            - /url: https://mastodon.social/@fabiosantoscode/116528241697200664
+            - text: View on Mastodon
+            - img [ref=e266]
+      - article [ref=e268] [cursor=pointer]:
+        - generic [ref=e270]:
+          - 'img "#gamedev progress: reworked book model to fix issues with normals when book was opened refactored input handling from ev" [ref=e271]'
+          - generic:
+            - img
+        - generic [ref=e272]:
+          - 'heading "#gamedev progress: reworked book model to fix issues with normals when book was opened refactored input handling from ev" [level=3] [ref=e273]'
+          - paragraph [ref=e274]: "#gamedev progress: reworked book model to fix issues with normals when book was opened refactored input handling from event based to having a big struct of the input state passed to the update functio"
+          - generic [ref=e275]:
+            - generic [ref=e276]: "@Libove Blog"
+            - generic [ref=e277]: mastodon
+            - generic [ref=e278]: May 6, 2026
+          - link "View on Mastodon" [ref=e279]:
+            - /url: https://blog.libove.org/posts/327f8ae7-4467-4de1-9f78-fb0597725bcc/
+            - text: View on Mastodon
+            - img [ref=e280]
+      - article [ref=e282] [cursor=pointer]:
+        - generic [ref=e284]:
+          - 'img "the cheerful doohickey of doom #gamedev" [ref=e285]'
+          - generic:
+            - img
+        - generic [ref=e286]:
+          - 'heading "the cheerful doohickey of doom #gamedev" [level=3] [ref=e287]'
+          - generic [ref=e288]:
+            - generic [ref=e289]: "@TheMysticSword"
+            - generic [ref=e290]: mastodon
+            - generic [ref=e291]: May 6, 2026
+          - link "View on Mastodon" [ref=e292]:
+            - /url: https://app.wafrn.net/fediverse/post/87458bb7-1cb8-4de5-a076-4530a4f5e56a
+            - text: View on Mastodon
+            - img [ref=e293]
+      - article [ref=e295] [cursor=pointer]:
+        - generic [ref=e297]:
+          - img "Also added support for treating alpha as \"screen-door transparency\" thing to my sprite shader, so now I can make cool ef" [ref=e298]
+          - generic:
+            - img
+        - generic [ref=e299]:
+          - heading "Also added support for treating alpha as \"screen-door transparency\" thing to my sprite shader, so now I can make cool ef" [level=3] [ref=e300]
+          - paragraph [ref=e301]: "Also added support for treating alpha as \"screen-door transparency\" thing to my sprite shader, so now I can make cool effects like this for free. #gamedev #solodev #indiedev #0xDEVLOG #theGRIMOIRE_"
+          - generic [ref=e302]:
+            - generic [ref=e303]: "@0x0961h"
+            - generic [ref=e304]: mastodon
+            - generic [ref=e305]: May 6, 2026
+          - link "View on Mastodon" [ref=e306]:
+            - /url: https://mastodon.gamedev.place/@0x0961h/116527986452964353
+            - text: View on Mastodon
+            - img [ref=e307]
+      - article [ref=e309] [cursor=pointer]:
+        - img "We’ve passed 6,000 stars on GitHub ⭐️ Thank you! It means a lot to us 🧡 If you enjoy using Defold and haven’t starred t" [ref=e311]
+        - generic [ref=e312]:
+          - heading "We’ve passed 6,000 stars on GitHub ⭐️ Thank you! It means a lot to us 🧡 If you enjoy using Defold and haven’t starred t" [level=3] [ref=e313]
+          - paragraph [ref=e314]: "We’ve passed 6,000 stars on GitHub ⭐️ Thank you! It means a lot to us 🧡 If you enjoy using Defold and haven’t starred the repo yet, we’d be very happy to see one more! 🤩 Repo: https://github.com/def"
+          - generic [ref=e315]:
+            - generic [ref=e316]: "@Defold"
+            - generic [ref=e317]: mastodon
+            - generic [ref=e318]: May 6, 2026
+          - link "View on Mastodon" [ref=e319]:
+            - /url: https://mastodon.gamedev.place/@defold/116527981482672916
+            - text: View on Mastodon
+            - img [ref=e320]
+      - article [ref=e322] [cursor=pointer]:
+        - generic [ref=e324]:
+          - 'img "Had some time and added moving eyes to one of my older games. 👀 https://mausgames.itch.io/ink-jump #gamedev #indiedev #" [ref=e325]'
+          - generic:
+            - img
+        - generic [ref=e326]:
+          - 'heading "Had some time and added moving eyes to one of my older games. 👀 https://mausgames.itch.io/ink-jump #gamedev #indiedev #" [level=3] [ref=e327]'
+          - paragraph [ref=e328]: "Had some time and added moving eyes to one of my older games. 👀 https://mausgames.itch.io/ink-jump #gamedev #indiedev #indiegame"
+          - generic [ref=e329]:
+            - generic [ref=e330]: "@Martin Mauersics"
+            - generic [ref=e331]: mastodon
+            - generic [ref=e332]: May 6, 2026
+          - link "View on Mastodon" [ref=e333]:
+            - /url: https://mastodon.online/@MausGames/116527929498500981
+            - text: View on Mastodon
+            - img [ref=e334]
+      - article [ref=e336] [cursor=pointer]:
+        - generic [ref=e338]:
+          - img "Now streaming the development of my Colony Sim + RPG game! ⚒️🤖⚔️ Now that villagers can eat, time to add a few more nee" [ref=e339]
+          - generic:
+            - img
+        - generic [ref=e340]:
+          - heading "Now streaming the development of my Colony Sim + RPG game! ⚒️🤖⚔️ Now that villagers can eat, time to add a few more nee" [level=3] [ref=e341]
+          - paragraph [ref=e342]: Now streaming the development of my Colony Sim + RPG game! ⚒️🤖⚔️ Now that villagers can eat, time to add a few more needs! Sleep is the obvious one, so let's go with that! May also take some time to
+          - generic [ref=e343]:
+            - generic [ref=e344]: "@Joana Almeida"
+            - generic [ref=e345]: mastodon
+            - generic [ref=e346]: May 6, 2026
+          - link "View on Mastodon" [ref=e347]:
+            - /url: https://mastodon.gamedev.place/@iohanna/116527894427691152
+            - text: View on Mastodon
+            - img [ref=e348]
+      - article [ref=e350] [cursor=pointer]:
+        - 'img "Sprite works for the card game, going for that retro aspect. #pixelart #gamedev" [ref=e352]'
+        - generic [ref=e353]:
+          - 'heading "Sprite works for the card game, going for that retro aspect. #pixelart #gamedev" [level=3] [ref=e354]'
+          - generic [ref=e355]:
+            - generic [ref=e356]: "@16BitNights"
+            - generic [ref=e357]: mastodon
+            - generic [ref=e358]: May 6, 2026
+          - link "View on Mastodon" [ref=e359]:
+            - /url: https://mastodon.social/@16bitnights/116527879523102995
+            - text: View on Mastodon
+            - img [ref=e360]
+      - article [ref=e362] [cursor=pointer]:
+        - 'img "A little memorial ui, it will show the ones lost on quests. #gamedev" [ref=e364]'
+        - generic [ref=e365]:
+          - 'heading "A little memorial ui, it will show the ones lost on quests. #gamedev" [level=3] [ref=e366]'
+          - generic [ref=e367]:
+            - generic [ref=e368]: "@Barrier"
+            - generic [ref=e369]: mastodon
+            - generic [ref=e370]: May 6, 2026
+          - link "View on Mastodon" [ref=e371]:
+            - /url: https://mastodon.social/@Barrier/116527876526391589
+            - text: View on Mastodon
+            - img [ref=e372]
+      - article [ref=e374] [cursor=pointer]:
+        - generic [ref=e376]:
+          - img "A powerful boar breaks free. One Escape awaits him and a 70% discount on Steam! https://www.ratalaikagames.com/games.php" [ref=e377]
+          - generic:
+            - img
+        - generic [ref=e378]:
+          - heading "A powerful boar breaks free. One Escape awaits him and a 70% discount on Steam! https://www.ratalaikagames.com/games.php" [level=3] [ref=e379]
+          - paragraph [ref=e380]: "A powerful boar breaks free. One Escape awaits him and a 70% discount on Steam! https://www.ratalaikagames.com/games.php?id=oneescape #gamedev #pixelart #indiegame #construct3 #indiedev"
+          - generic [ref=e381]:
+            - generic [ref=e382]: "@BUG-Studio | Indie Developer"
+            - generic [ref=e383]: mastodon
+            - generic [ref=e384]: May 6, 2026
+          - link "View on Mastodon" [ref=e385]:
+            - /url: https://mastodon.social/@BUG_Studio/116527745781058105
+            - text: View on Mastodon
+            - img [ref=e386]
+      - article [ref=e388] [cursor=pointer]:
+        - 'img "added a ceiling to the crumnchy dungeon view i''m working on for You Have Died #GameDev #PixelArt" [ref=e390]'
+        - generic [ref=e391]:
+          - 'heading "added a ceiling to the crumnchy dungeon view i''m working on for You Have Died #GameDev #PixelArt" [level=3] [ref=e392]'
+          - generic [ref=e393]:
+            - generic [ref=e394]: "@Eniko Fox"
+            - generic [ref=e395]: mastodon
+            - generic [ref=e396]: May 6, 2026
+          - link "View on Mastodon" [ref=e397]:
+            - /url: https://mastodon.gamedev.place/@eniko/116527556547726350
+            - text: View on Mastodon
+            - img [ref=e398]
+      - article [ref=e400] [cursor=pointer]:
+        - generic [ref=e402]:
+          - 'img "GET OUT OF THE SHED!!!! #indiegames #horror #gamedev" [ref=e403]'
+          - generic:
+            - img
+        - generic [ref=e404]:
+          - 'heading "GET OUT OF THE SHED!!!! #indiegames #horror #gamedev" [level=3] [ref=e405]'
+          - generic [ref=e406]:
+            - generic [ref=e407]: "@CatTrigger"
+            - generic [ref=e408]: mastodon
+            - generic [ref=e409]: May 6, 2026
+          - link "View on Mastodon" [ref=e410]:
+            - /url: https://mastodon.art/@CatTrigger/116527517100699131
+            - text: View on Mastodon
+            - img [ref=e411]
+      - article [ref=e413] [cursor=pointer]:
+        - generic [ref=e415]:
+          - img "The newest Defold 1.12.4 introduces a Free Camera mode in the editor 🎥 We hope this will let you build more convenientl" [ref=e416]
+          - generic:
+            - img
+        - generic [ref=e417]:
+          - heading "The newest Defold 1.12.4 introduces a Free Camera mode in the editor 🎥 We hope this will let you build more convenientl" [level=3] [ref=e418]
+          - paragraph [ref=e419]: The newest Defold 1.12.4 introduces a Free Camera mode in the editor 🎥 We hope this will let you build more conveniently 3D scenes in Defold 🧡💙 Check out our updated manual for Scene Editing, espec
+          - generic [ref=e420]:
+            - generic [ref=e421]: "@Defold"
+            - generic [ref=e422]: mastodon
+            - generic [ref=e423]: May 6, 2026
+          - link "View on Mastodon" [ref=e424]:
+            - /url: https://mastodon.gamedev.place/@defold/116527511365060773
+            - text: View on Mastodon
+            - img [ref=e425]
+      - article [ref=e427] [cursor=pointer]:
+        - 'img "Happy #WishlistWednesday everyone! 🎉 Let''s promote your game! Drop your #indiegame below 🚀 #gamedev #indiegamedev #gam" [ref=e429]'
+        - generic [ref=e430]:
+          - 'heading "Happy #WishlistWednesday everyone! 🎉 Let''s promote your game! Drop your #indiegame below 🚀 #gamedev #indiegamedev #gam" [level=3] [ref=e431]'
+          - paragraph [ref=e432]: "Happy #WishlistWednesday everyone! 🎉 Let's promote your game! Drop your #indiegame below 🚀 #gamedev #indiegamedev #gamemarketing #steam"
+          - generic [ref=e433]:
+            - generic [ref=e434]: "@beni"
+            - generic [ref=e435]: mastodon
+            - generic [ref=e436]: May 6, 2026
+          - link "View on Mastodon" [ref=e437]:
+            - /url: https://fed.brid.gy/r/https://bsky.app/profile/did:plc:k4v2kpmoe3ouakwre2zbhxtr/post/3ml6ncpwwf22b
+            - text: View on Mastodon
+            - img [ref=e438]
+      - article [ref=e440] [cursor=pointer]:
+        - generic [ref=e441]:
+          - 'img "Anyone want more high rez pixel fonts? 🤔 https://itch.io/s/107531/mega-font-sale I have a few more planned! ❤️💙💜 #pix" [ref=e442]'
+          - generic [ref=e443]:
+            - img [ref=e444]
+            - text: "4"
+        - generic [ref=e448]:
+          - 'heading "Anyone want more high rez pixel fonts? 🤔 https://itch.io/s/107531/mega-font-sale I have a few more planned! ❤️💙💜 #pix" [level=3] [ref=e449]'
+          - paragraph [ref=e450]: "Anyone want more high rez pixel fonts? 🤔 https://itch.io/s/107531/mega-font-sale I have a few more planned! ❤️💙💜 #pixelart #ドット絵 #gamedev #indiedev"
+          - generic [ref=e451]:
+            - generic [ref=e452]: "@VEXED (commissions OPEN)"
+            - generic [ref=e453]: mastodon
+            - generic [ref=e454]: May 6, 2026
+          - link "View on Mastodon" [ref=e455]:
+            - /url: https://mastodon.art/@VEXED/116527412761540243
+            - text: View on Mastodon
+            - img [ref=e456]
+      - article [ref=e458] [cursor=pointer]:
+        - generic [ref=e459]:
+          - 'img "Dstroy 2 paint battles: Safer for your walls, as fun for your kids? 😜🎨🎮 ✨To Wishlist #Dstroy2 ✨: ➡️ https://store.ste" [ref=e460]'
+          - generic [ref=e461]:
+            - img [ref=e462]
+            - text: "2"
+        - generic [ref=e466]:
+          - 'heading "Dstroy 2 paint battles: Safer for your walls, as fun for your kids? 😜🎨🎮 ✨To Wishlist #Dstroy2 ✨: ➡️ https://store.ste" [level=3] [ref=e467]'
+          - paragraph [ref=e468]: "Dstroy 2 paint battles: Safer for your walls, as fun for your kids? 😜🎨🎮 ✨To Wishlist #Dstroy2 ✨: ➡️ https://store.steampowered.com/app/1523460 #indiegame #bomberman #gamedev #pixelart #paint #fun"
+          - generic [ref=e469]:
+            - generic [ref=e470]: "@Fully Bugged"
+            - generic [ref=e471]: mastodon
+            - generic [ref=e472]: May 6, 2026
+          - link "View on Mastodon" [ref=e473]:
+            - /url: https://mastodon.gamedev.place/@FullyBugged/116527273470626729
+            - text: View on Mastodon
+            - img [ref=e474]
+      - article [ref=e476] [cursor=pointer]:
+        - 'img "Today You can see Eta Aquariids #meteor shower to peak✨ And new #fanart for game https://store.steampowered.com/app/3503" [ref=e478]'
+        - generic [ref=e479]:
+          - 'heading "Today You can see Eta Aquariids #meteor shower to peak✨ And new #fanart for game https://store.steampowered.com/app/3503" [level=3] [ref=e480]'
+          - paragraph [ref=e481]: "Today You can see Eta Aquariids #meteor shower to peak✨ And new #fanart for game https://store.steampowered.com/app/3503880/Astronook/ from #mirnix_game_art Have a good time 🌿 #star #astronomy #gamed"
+          - generic [ref=e482]:
+            - generic [ref=e483]: "@Mirnix"
+            - generic [ref=e484]: mastodon
+            - generic [ref=e485]: May 6, 2026
+          - link "View on Mastodon" [ref=e486]:
+            - /url: https://mastodon.gamedev.place/@mirnix/116527162179101188
+            - text: View on Mastodon
+            - img [ref=e487]
+      - article [ref=e489] [cursor=pointer]:
+        - generic [ref=e491]:
+          - 'img "Running #godot on Lini https://www.kickstarter.com/projects/staticcat/lini-your-everywhere-open-source-mini-computer #te" [ref=e492]'
+          - generic:
+            - img
+        - generic [ref=e493]:
+          - 'heading "Running #godot on Lini https://www.kickstarter.com/projects/staticcat/lini-your-everywhere-open-source-mini-computer #te" [level=3] [ref=e494]'
+          - paragraph [ref=e495]: "Running #godot on Lini https://www.kickstarter.com/projects/staticcat/lini-your-everywhere-open-source-mini-computer #technology #gaming #programming #news #games #gamedev"
+          - generic [ref=e496]:
+            - generic [ref=e497]: "@Static_Cat"
+            - generic [ref=e498]: mastodon
+            - generic [ref=e499]: May 6, 2026
+          - link "View on Mastodon" [ref=e500]:
+            - /url: https://mastodon.social/@Static_Cat/116527140112888011
+            - text: View on Mastodon
+            - img [ref=e501]
+      - article [ref=e503] [cursor=pointer]:
+        - 'img "Have you ever been in a mine? Warst du schon einmal in einer Mine? ⚒️🦉🦇 #cralon #pithead #pitheadstudio #indiedev #gam" [ref=e505]'
+        - generic [ref=e506]:
+          - 'heading "Have you ever been in a mine? Warst du schon einmal in einer Mine? ⚒️🦉🦇 #cralon #pithead #pitheadstudio #indiedev #gam" [level=3] [ref=e507]'
+          - paragraph [ref=e508]: "Have you ever been in a mine? Warst du schon einmal in einer Mine? ⚒️🦉🦇 #cralon #pithead #pitheadstudio #indiedev #gamedev"
+          - generic [ref=e509]:
+            - generic [ref=e510]: "@Pithead Studio"
+            - generic [ref=e511]: mastodon
+            - generic [ref=e512]: May 6, 2026
+          - link "View on Mastodon" [ref=e513]:
+            - /url: https://mastodon.social/@PitheadStudio/116526970572528067
+            - text: View on Mastodon
+            - img [ref=e514]
+      - article [ref=e516] [cursor=pointer]:
+        - generic [ref=e517]:
+          - 'img "#anifilm #FruitsAndTails #liberec #gamedev #ziglang #zig" [ref=e518]'
+          - generic [ref=e519]:
+            - img [ref=e520]
+            - text: "2"
+        - generic [ref=e524]:
+          - 'heading "#anifilm #FruitsAndTails #liberec #gamedev #ziglang #zig" [level=3] [ref=e525]'
+          - generic [ref=e526]:
+            - generic [ref=e527]: "@Oto Šťáva"
+            - generic [ref=e528]: mastodon
+            - generic [ref=e529]: May 6, 2026
+          - link "View on Mastodon" [ref=e530]:
+            - /url: https://mastodon.social/@alefunguju/116526941275061978
+            - text: View on Mastodon
+            - img [ref=e531]
+      - article [ref=e533] [cursor=pointer]:
+        - generic [ref=e535]:
+          - 'img "divine terrain rendering glitch #gamedev" [ref=e536]'
+          - generic:
+            - img
+        - generic [ref=e537]:
+          - 'heading "divine terrain rendering glitch #gamedev" [level=3] [ref=e538]'
+          - generic [ref=e539]:
+            - generic [ref=e540]: "@Joni Korpi"
+            - generic [ref=e541]: mastodon
+            - generic [ref=e542]: May 6, 2026
+          - link "View on Mastodon" [ref=e543]:
+            - /url: https://mastodon.gamedev.place/@jonikorpi/116526931734715952
+            - text: View on Mastodon
+            - img [ref=e544]
+      - article [ref=e546] [cursor=pointer]:
+        - generic [ref=e548]:
+          - img "Check out Defold Fake Real Glass - a nice glass effect made by Youssef Afella and ported from Unity to Defold by @witchc" [ref=e549]
+          - generic:
+            - img
+        - generic [ref=e550]:
+          - heading "Check out Defold Fake Real Glass - a nice glass effect made by Youssef Afella and ported from Unity to Defold by @witchc" [level=3] [ref=e551]
+          - paragraph [ref=e552]: "Check out Defold Fake Real Glass - a nice glass effect made by Youssef Afella and ported from Unity to Defold by @witchcrafter : https://forum.defold.com/t/defold-fake-real-glass/82734 #opensource #Ma"
+          - generic [ref=e553]:
+            - generic [ref=e554]: "@Defold"
+            - generic [ref=e555]: mastodon
+            - generic [ref=e556]: May 6, 2026
+          - link "View on Mastodon" [ref=e557]:
+            - /url: https://mastodon.gamedev.place/@defold/116526739826920173
+            - text: View on Mastodon
+            - img [ref=e558]
+      - article [ref=e560] [cursor=pointer]:
+        - generic [ref=e561]:
+          - 'img "📰 #LlamaLegends Dev Letter - 5! #gamedev #incremental #browsergames #newsletter #news #info #updates #cardgame #indiede" [ref=e562]'
+          - generic [ref=e563]:
+            - img [ref=e564]
+            - text: "3"
+        - generic [ref=e568]:
+          - 'heading "📰 #LlamaLegends Dev Letter - 5! #gamedev #incremental #browsergames #newsletter #news #info #updates #cardgame #indiede" [level=3] [ref=e569]'
+          - paragraph [ref=e570]: "📰 #LlamaLegends Dev Letter - 5! #gamedev #incremental #browsergames #newsletter #news #info #updates #cardgame #indiedev #update #content #RPG #free #devupdate #announcement"
+          - generic [ref=e571]:
+            - generic [ref=e572]: "@TheLuigiplayer"
+            - generic [ref=e573]: mastodon
+            - generic [ref=e574]: May 6, 2026
+          - link "View on Mastodon" [ref=e575]:
+            - /url: https://mastodon.gamedev.place/@TheLuigiplayer/116526671227954525
+            - text: View on Mastodon
+            - img [ref=e576]
+      - article [ref=e578] [cursor=pointer]:
+        - generic [ref=e580]:
+          - img "🔥 Just dropped the free prototype of Hexstride 🎯 A hex-grid tactical roguelike with no attack button; your movement pa" [ref=e581]
+          - generic:
+            - img
+        - generic [ref=e582]:
+          - heading "🔥 Just dropped the free prototype of Hexstride 🎯 A hex-grid tactical roguelike with no attack button; your movement pa" [level=3] [ref=e583]
+          - paragraph [ref=e584]: 🔥 Just dropped the free prototype of Hexstride 🎯 A hex-grid tactical roguelike with no attack button; your movement patterns trigger abilities automatically. ⚔️ Move to fight. Fight by moving. 🕹️ P
+          - generic [ref=e585]:
+            - generic [ref=e586]: "@YAWP Games | Wishlist now!"
+            - generic [ref=e587]: mastodon
+            - generic [ref=e588]: May 6, 2026
+          - link "View on Mastodon" [ref=e589]:
+            - /url: https://mastodon.social/@MazeWars/116526659517109263
+            - text: View on Mastodon
+            - img [ref=e590]
+      - article [ref=e592] [cursor=pointer]:
+        - 'img "⚔️ GOEDWARE GAME JAM: Boss Battle Edition starts in 10 days (May 15th)! Create a game around at least 1 memorable boss b" [ref=e594]'
+        - generic [ref=e595]:
+          - 'heading "⚔️ GOEDWARE GAME JAM: Boss Battle Edition starts in 10 days (May 15th)! Create a game around at least 1 memorable boss b" [level=3] [ref=e596]'
+          - paragraph [ref=e597]: "⚔️ GOEDWARE GAME JAM: Boss Battle Edition starts in 10 days (May 15th)! Create a game around at least 1 memorable boss battle. Solo or team. All skill levels. Any engine. Prizes available and our comm"
+          - generic [ref=e598]:
+            - generic [ref=e599]: "@GoedWare"
+            - generic [ref=e600]: mastodon
+            - generic [ref=e601]: May 6, 2026
+          - link "View on Mastodon" [ref=e602]:
+            - /url: https://mastodon.gamedev.place/@goedware/116526652152589864
+            - text: View on Mastodon
+            - img [ref=e603]
+      - article [ref=e605] [cursor=pointer]:
+        - 'img "⚔️ GOEDWARE GAME JAM: Boss Battle Edition starts in 10 days (May 15th)! Create a game around at least 1 memorable boss b" [ref=e607]'
+        - generic [ref=e608]:
+          - 'heading "⚔️ GOEDWARE GAME JAM: Boss Battle Edition starts in 10 days (May 15th)! Create a game around at least 1 memorable boss b" [level=3] [ref=e609]'
+          - paragraph [ref=e610]: "⚔️ GOEDWARE GAME JAM: Boss Battle Edition starts in 10 days (May 15th)! Create a game around at least 1 memorable boss battle. Solo or team. All skill levels. Any engine. Prizes available and our comm"
+          - generic [ref=e611]:
+            - generic [ref=e612]: "@GoedWare"
+            - generic [ref=e613]: mastodon
+            - generic [ref=e614]: May 6, 2026
+          - link "View on Mastodon" [ref=e615]:
+            - /url: https://mastodon.social/@goedware/116526650870756025
+            - text: View on Mastodon
+            - img [ref=e616]
+      - article [ref=e618] [cursor=pointer]:
+        - generic [ref=e620]:
+          - 'img "someone wondered whether Depth Of Field was possible on the pre-shader #Dreamcast console so I made this not very useful" [ref=e621]'
+          - generic:
+            - img
+        - generic [ref=e622]:
+          - 'heading "someone wondered whether Depth Of Field was possible on the pre-shader #Dreamcast console so I made this not very useful" [level=3] [ref=e623]'
+          - paragraph [ref=e624]: "someone wondered whether Depth Of Field was possible on the pre-shader #Dreamcast console so I made this not very useful DOF'd sprite demo #gamedev"
+          - generic [ref=e625]:
+            - generic [ref=e626]: "@voxel"
+            - generic [ref=e627]: mastodon
+            - generic [ref=e628]: May 6, 2026
+          - link "View on Mastodon" [ref=e629]:
+            - /url: https://merveilles.town/@voxel/116526647211959285
+            - text: View on Mastodon
+            - img [ref=e630]
+      - article [ref=e632] [cursor=pointer]:
+        - 'img "Years ago I released a small RPG trilogy on Steam. It was rough: huge black bars, terrible performance, no achievements," [ref=e634]'
+        - generic [ref=e635]:
+          - 'heading "Years ago I released a small RPG trilogy on Steam. It was rough: huge black bars, terrible performance, no achievements," [level=3] [ref=e636]'
+          - paragraph [ref=e637]: "Years ago I released a small RPG trilogy on Steam. It was rough: huge black bars, terrible performance, no achievements, no Steam Deck support. I nearly left it all behind. Then I found mkxp-z: a play"
+          - generic [ref=e638]:
+            - generic [ref=e639]: "@Stef"
+            - generic [ref=e640]: mastodon
+            - generic [ref=e641]: May 6, 2026
+          - link "View on Mastodon" [ref=e642]:
+            - /url: https://mastodon.gamedev.place/@stefh/116526573562340626
+            - text: View on Mastodon
+            - img [ref=e643]
+      - article [ref=e645] [cursor=pointer]:
+        - generic [ref=e647]:
+          - 'img "Trust me. This has a reason 👀 There will be more information visible in the future 🦆 #gamedev #indiedev #madewithunity" [ref=e648]'
+          - generic:
+            - img
+        - generic [ref=e649]:
+          - 'heading "Trust me. This has a reason 👀 There will be more information visible in the future 🦆 #gamedev #indiedev #madewithunity" [level=3] [ref=e650]'
+          - generic [ref=e651]:
+            - generic [ref=e652]: "@tinylittledev"
+            - generic [ref=e653]: mastodon
+            - generic [ref=e654]: May 6, 2026
+          - link "View on Mastodon" [ref=e655]:
+            - /url: https://mastodon.gamedev.place/@TinyLittleStudio/116526484923562290
+            - text: View on Mastodon
+            - img [ref=e656]
+      - article [ref=e658] [cursor=pointer]:
+        - img "I took this one with the idea it could help me tune the back-lighting effect on foliage (when a leaf is lit from behind" [ref=e660]
+        - generic [ref=e661]:
+          - heading "I took this one with the idea it could help me tune the back-lighting effect on foliage (when a leaf is lit from behind" [level=3] [ref=e662]
+          - paragraph [ref=e663]: I took this one with the idea it could help me tune the back-lighting effect on foliage (when a leaf is lit from behind but is still very bright because it's translucent). But first I need to get my f
+          - generic [ref=e664]:
+            - generic [ref=e665]: "@youen"
+            - generic [ref=e666]: mastodon
+            - generic [ref=e667]: May 6, 2026
+          - link "View on Mastodon" [ref=e668]:
+            - /url: https://mastodon.gamedev.place/@youen/116526411277953107
+            - text: View on Mastodon
+            - img [ref=e669]
+      - article [ref=e671] [cursor=pointer]:
+        - generic [ref=e673]:
+          - 'img "I build game prototypes in Unity3D and UE5 to help you test, validate, and move faster. #gamedev" [ref=e674]'
+          - generic:
+            - img
+        - generic [ref=e675]:
+          - 'heading "I build game prototypes in Unity3D and UE5 to help you test, validate, and move faster. #gamedev" [level=3] [ref=e676]'
+          - generic [ref=e677]:
+            - generic [ref=e678]: "@ABDUL RAZAQ"
+            - generic [ref=e679]: mastodon
+            - generic [ref=e680]: May 6, 2026
+          - link "View on Mastodon" [ref=e681]:
+            - /url: https://mastodon.gamedev.place/@artigencemeta/116526403013047117
+            - text: View on Mastodon
+            - img [ref=e682]
+      - article [ref=e684] [cursor=pointer]:
+        - generic [ref=e686]:
+          - img "💊 New Music Visual - Pill Tubes 💊 Or as tiktok took to calling it \"Fent Sim 3\" 😂 Here's hoping my struggling music vi" [ref=e687]
+          - generic:
+            - img
+        - generic [ref=e688]:
+          - heading "💊 New Music Visual - Pill Tubes 💊 Or as tiktok took to calling it \"Fent Sim 3\" 😂 Here's hoping my struggling music vi" [level=3] [ref=e689]
+          - paragraph [ref=e690]: 💊 New Music Visual - Pill Tubes 💊 Or as tiktok took to calling it "Fent Sim 3" 😂 Here's hoping my struggling music visualizer app connects with all the struggling artists and some stray party anima
+          - generic [ref=e691]:
+            - generic [ref=e692]: "@SoundSafari"
+            - generic [ref=e693]: mastodon
+            - generic [ref=e694]: May 6, 2026
+          - link "View on Mastodon" [ref=e695]:
+            - /url: https://mastodon.social/@soundsafari/116526389829371239
+            - text: View on Mastodon
+            - img [ref=e696]
+      - article [ref=e698] [cursor=pointer]:
+        - generic [ref=e700]:
+          - img "💊 New Music Visual - Pill Tubes 💊 Or as tiktok took to calling it \"Fent Sim 3\" 😂 Here's hoping my struggling music" [ref=e701]
+          - generic:
+            - img
+        - generic [ref=e702]:
+          - heading "💊 New Music Visual - Pill Tubes 💊 Or as tiktok took to calling it \"Fent Sim 3\" 😂 Here's hoping my struggling music" [level=3] [ref=e703]
+          - paragraph [ref=e704]: 💊 New Music Visual - Pill Tubes 💊 Or as tiktok took to calling it "Fent Sim 3" 😂 Here's hoping my struggling music visualizer app connects with all the struggling artists and some stray party ani
+          - generic [ref=e705]:
+            - generic [ref=e706]: SoundSafari.io
+            - generic [ref=e707]: bsky
+            - generic [ref=e708]: May 6, 2026
+          - link "View on Bluesky" [ref=e709]:
+            - /url: https://bsky.app/profile/soundsafari.io/post/3ml65lfhq4c24
+            - text: View on Bluesky
+            - img [ref=e710]
+      - article [ref=e712] [cursor=pointer]:
+        - generic [ref=e714]:
+          - img "Implemented tweening system in my engine/game. I really like having tweens as they are very cheap, yet very powerful way" [ref=e715]
+          - generic:
+            - img
+        - generic [ref=e716]:
+          - heading "Implemented tweening system in my engine/game. I really like having tweens as they are very cheap, yet very powerful way" [level=3] [ref=e717]
+          - paragraph [ref=e718]: Implemented tweening system in my engine/game. I really like having tweens as they are very cheap, yet very powerful way to add what cool kids on the block call "game juice". Dramatically slowed down
+          - generic [ref=e719]:
+            - generic [ref=e720]: "@0x0961h"
+            - generic [ref=e721]: mastodon
+            - generic [ref=e722]: May 6, 2026
+          - link "View on Mastodon" [ref=e723]:
+            - /url: https://mastodon.gamedev.place/@0x0961h/116526277225454443
+            - text: View on Mastodon
+            - img [ref=e724]
+      - article [ref=e726] [cursor=pointer]:
+        - generic [ref=e728]:
+          - 'img "#ゲーム開発 #gamedev #Godot #fedibird 前回のあほげーで作ったゲームをGodotPlayerでも公開した。 このGWぜひ遊んでね https://godotplayer.com/games/ahoge_vendin" [ref=e729]'
+          - generic:
+            - img
+        - generic [ref=e730]:
+          - 'heading "#ゲーム開発 #gamedev #Godot #fedibird 前回のあほげーで作ったゲームをGodotPlayerでも公開した。 このGWぜひ遊んでね https://godotplayer.com/games/ahoge_vendin" [level=3] [ref=e731]'
+          - paragraph [ref=e732]: "#ゲーム開発 #gamedev #Godot #fedibird 前回のあほげーで作ったゲームをGodotPlayerでも公開した。 このGWぜひ遊んでね https://godotplayer.com/games/ahoge_vending"
+          - generic [ref=e733]:
+            - generic [ref=e734]: "@こつ子"
+            - generic [ref=e735]: mastodon
+            - generic [ref=e736]: May 6, 2026
+          - link "View on Mastodon" [ref=e737]:
+            - /url: https://fedibird.com/@KotukoHumibana/116526222394712360
+            - text: View on Mastodon
+            - img [ref=e738]
+      - article [ref=e740] [cursor=pointer]:
+        - generic [ref=e742]:
+          - 'img "A rainy day for the inn. Innkeeper loves them. #gamedev #indiedev #godot #solodev #godotengine #tavern #fantasyart" [ref=e743]'
+          - generic:
+            - img
+        - generic [ref=e744]:
+          - 'heading "A rainy day for the inn. Innkeeper loves them. #gamedev #indiedev #godot #solodev #godotengine #tavern #fantasyart" [level=3] [ref=e745]'
+          - generic [ref=e746]:
+            - generic [ref=e747]: "@SasVel | Kinematic Design"
+            - generic [ref=e748]: mastodon
+            - generic [ref=e749]: May 6, 2026
+          - link "View on Mastodon" [ref=e750]:
+            - /url: https://mastodon.gamedev.place/@SasVel/116526152967298669
+            - text: View on Mastodon
+            - img [ref=e751]
+      - article [ref=e753] [cursor=pointer]:
+        - 'img "#gamedev #pixelart #indiedev" [ref=e755]'
+        - generic [ref=e756]:
+          - 'heading "#gamedev #pixelart #indiedev" [level=3] [ref=e757]'
+          - generic [ref=e758]:
+            - generic [ref=e759]: "@Kijo (Comms Open)"
+            - generic [ref=e760]: mastodon
+            - generic [ref=e761]: May 6, 2026
+          - link "View on Mastodon" [ref=e762]:
+            - /url: https://mastodon.social/@Kijo_dev/116526059292857267
+            - text: View on Mastodon
+            - img [ref=e763]
+      - article [ref=e765] [cursor=pointer]:
+        - img "Last night as I was falling asleep I calculated that at a scale of 3 pixels/meter, which what I use for mecha sprites, a" [ref=e767]
+        - generic [ref=e768]:
+          - heading "Last night as I was falling asleep I calculated that at a scale of 3 pixels/meter, which what I use for mecha sprites, a" [level=3] [ref=e769]
+          - paragraph [ref=e770]: Last night as I was falling asleep I calculated that at a scale of 3 pixels/meter, which what I use for mecha sprites, an average GearHead mission map is almost exactly a 1km square. No idea why I was
+          - generic [ref=e771]:
+            - generic [ref=e772]: "@Joseph Hewitt"
+            - generic [ref=e773]: mastodon
+            - generic [ref=e774]: May 6, 2026
+          - link "View on Mastodon" [ref=e775]:
+            - /url: https://fed.brid.gy/r/https://bsky.app/profile/did:plc:lldrkives7nd2cqxlwzh2y4q/post/3ml5ubbnyds2w
+            - text: View on Mastodon
+            - img [ref=e776]
+      - article [ref=e778] [cursor=pointer]:
+        - 'img "𝗝𝘂𝘀𝘁 𝘁𝗵𝗲 𝘁𝗶𝗽𝘀 #𝟬𝟬𝟬𝟭𝟬𝟬𝟭𝟭 Many times “the dumbest” solution has proved to be the best in my life #Sol" [ref=e780]'
+        - generic [ref=e781]:
+          - 'heading "𝗝𝘂𝘀𝘁 𝘁𝗵𝗲 𝘁𝗶𝗽𝘀 #𝟬𝟬𝟬𝟭𝟬𝟬𝟭𝟭 Many times “the dumbest” solution has proved to be the best in my life #Sol" [level=3] [ref=e782]'
+          - paragraph [ref=e783]: "𝗝𝘂𝘀𝘁 𝘁𝗵𝗲 𝘁𝗶𝗽𝘀 #𝟬𝟬𝟬𝟭𝟬𝟬𝟭𝟭 Many times “the dumbest” solution has proved to be the best in my life #SoloDev #BuildInPublic #CreativeCoding #ScreenshotSaturday"
+          - generic [ref=e784]:
+            - generic [ref=e785]: SoundSafari.io
+            - generic [ref=e786]: bsky
+            - generic [ref=e787]: May 5, 2026
+          - link "View on Bluesky" [ref=e788]:
+            - /url: https://bsky.app/profile/soundsafari.io/post/3ml5jixuzcs2r
+            - text: View on Bluesky
+            - img [ref=e789]
+      - article [ref=e791] [cursor=pointer]:
+        - generic [ref=e793]:
+          - 'img "This is BY FAR the most CAPCOM remix i''ve ever made oh my GOD bro. Street Fighter Third Strike is absolute BALL. #capcom" [ref=e794]'
+          - generic:
+            - img
+        - generic [ref=e795]:
+          - 'heading "This is BY FAR the most CAPCOM remix i''ve ever made oh my GOD bro. Street Fighter Third Strike is absolute BALL. #capcom" [level=3] [ref=e796]'
+          - paragraph [ref=e797]: "This is BY FAR the most CAPCOM remix i've ever made oh my GOD bro. Street Fighter Third Strike is absolute BALL. #capcom #megaman #StreetFighter6 #VGM #JerseyClub #OST #REMIX #NintendoSwitch #Nintendo"
+          - generic [ref=e798]:
+            - generic [ref=e799]: TNH Nebula
+            - generic [ref=e800]: bsky
+            - generic [ref=e801]: May 5, 2026
+          - link "View on Bluesky" [ref=e802]:
+            - /url: https://bsky.app/profile/tnhnebula.bsky.social/post/3ml4vn3t66k2b
+            - text: View on Bluesky
+            - img [ref=e803]
+      - article [ref=e805] [cursor=pointer]:
+        - generic [ref=e807]:
+          - 'img "😳 #BuildInPublic #GameDev #ScreenShotSaturday #Surprise #Musician #Music #Art #OC" [ref=e808]'
+          - generic:
+            - img
+        - generic [ref=e809]:
+          - 'heading "😳 #BuildInPublic #GameDev #ScreenShotSaturday #Surprise #Musician #Music #Art #OC" [level=3] [ref=e810]'
+          - generic [ref=e811]:
+            - generic [ref=e812]: SoundSafari.io
+            - generic [ref=e813]: bsky
+            - generic [ref=e814]: May 4, 2026
+          - link "View on Bluesky" [ref=e815]:
+            - /url: https://bsky.app/profile/soundsafari.io/post/3ml3bxtm4ck2b
+            - text: View on Bluesky
+            - img [ref=e816]
+      - article [ref=e818] [cursor=pointer]:
+        - generic [ref=e820]:
+          - img "A look at the smoke and mirrors that make the Wolf Game Boy demo !;) - Bottom left you'll see the VRAM used as a buffer" [ref=e821]
+          - generic:
+            - img
+        - generic [ref=e822]:
+          - heading "A look at the smoke and mirrors that make the Wolf Game Boy demo !;) - Bottom left you'll see the VRAM used as a buffer" [level=3] [ref=e823]
+          - paragraph [ref=e824]: A look at the smoke and mirrors that make the Wolf Game Boy demo !;) - Bottom left you'll see the VRAM used as a buffer - Top middle you'll see sprites used to fill wall gaps - Bottom middle you'll se
+          - generic [ref=e825]:
+            - generic [ref=e826]: EGVroom
+            - generic [ref=e827]: bsky
+            - generic [ref=e828]: May 3, 2026
+          - link "View on Bluesky" [ref=e829]:
+            - /url: https://bsky.app/profile/egvroom.bsky.social/post/3mkymdnjanc2w
+            - text: View on Bluesky
+            - img [ref=e830]
+      - article [ref=e832] [cursor=pointer]:
+        - generic [ref=e834]:
+          - 'img "i''ve been kinda busy with other stuff this week and i''m a day late for #screenshotsaturday but i''ve been restructuring m" [ref=e835]'
+          - generic:
+            - img
+        - generic [ref=e836]:
+          - 'heading "i''ve been kinda busy with other stuff this week and i''m a day late for #screenshotsaturday but i''ve been restructuring m" [level=3] [ref=e837]'
+          - paragraph [ref=e838]: "i've been kinda busy with other stuff this week and i'm a day late for #screenshotsaturday but i've been restructuring my asset storage, played a bit with palettes again, and added a dev console to my"
+          - generic [ref=e839]:
+            - generic [ref=e840]: saffeıne
+            - generic [ref=e841]: bsky
+            - generic [ref=e842]: May 3, 2026
+          - link "View on Bluesky" [ref=e843]:
+            - /url: https://bsky.app/profile/saffeinedev.bsky.social/post/3mky7jzzyy22j
+            - text: View on Bluesky
+            - img [ref=e844]
+      - article [ref=e846] [cursor=pointer]:
+        - 'img "𝗝𝘂𝘀𝘁 𝘁𝗵𝗲 𝘁𝗶𝗽𝘀 #𝟬𝟬𝟬𝟭𝟬𝟬𝟬𝟭 🍑 Simple Messages Win 🏆 #BuildInPublic #GameDev #SoloDev #ScreenshotSatur" [ref=e848]'
+        - generic [ref=e849]:
+          - 'heading "𝗝𝘂𝘀𝘁 𝘁𝗵𝗲 𝘁𝗶𝗽𝘀 #𝟬𝟬𝟬𝟭𝟬𝟬𝟬𝟭 🍑 Simple Messages Win 🏆 #BuildInPublic #GameDev #SoloDev #ScreenshotSatur" [level=3] [ref=e850]'
+          - paragraph [ref=e851]: "𝗝𝘂𝘀𝘁 𝘁𝗵𝗲 𝘁𝗶𝗽𝘀 #𝟬𝟬𝟬𝟭𝟬𝟬𝟬𝟭 🍑 Simple Messages Win 🏆 #BuildInPublic #GameDev #SoloDev #ScreenshotSaturday"
+          - generic [ref=e852]:
+            - generic [ref=e853]: SoundSafari.io
+            - generic [ref=e854]: bsky
+            - generic [ref=e855]: May 3, 2026
+          - link "View on Bluesky" [ref=e856]:
+            - /url: https://bsky.app/profile/soundsafari.io/post/3mky5tzmves2e
+            - text: View on Bluesky
+            - img [ref=e857]
+      - article [ref=e859] [cursor=pointer]:
+        - generic [ref=e861]:
+          - 'img "What happened to games like Tattletail? In Puppetsite, we’re bringing back part of its essence. Will you survive? #Sc" [ref=e862]'
+          - generic:
+            - img
+        - generic [ref=e863]:
+          - 'heading "What happened to games like Tattletail? In Puppetsite, we’re bringing back part of its essence. Will you survive? #Sc" [level=3] [ref=e864]'
+          - paragraph [ref=e865]: "What happened to games like Tattletail? In Puppetsite, we’re bringing back part of its essence. Will you survive? #Screenshotsaturday #WishlistWednesday #Horrorgame #Indiegame"
+          - generic [ref=e866]:
+            - generic [ref=e867]: Puppetsite - Wishlist on Steam
+            - generic [ref=e868]: bsky
+            - generic [ref=e869]: May 3, 2026
+          - link "View on Bluesky" [ref=e870]:
+            - /url: https://bsky.app/profile/puppeteersdevs.bsky.social/post/3mkxyfzvnss2u
+            - text: View on Bluesky
+            - img [ref=e871]
+      - article [ref=e873] [cursor=pointer]:
+        - 'img "its still #screenshotsaturday in our hearts today. So." [ref=e875]'
+        - generic [ref=e876]:
+          - 'heading "its still #screenshotsaturday in our hearts today. So." [level=3] [ref=e877]'
+          - generic [ref=e878]:
+            - generic [ref=e879]: ⚠️The Violence Series⚠️
+            - generic [ref=e880]: bsky
+            - generic [ref=e881]: May 3, 2026
+          - link "View on Bluesky" [ref=e882]:
+            - /url: https://bsky.app/profile/violenceseries.bsky.social/post/3mkxtv6eze22v
+            - text: View on Bluesky
+            - img [ref=e883]
+      - article [ref=e885] [cursor=pointer]:
+        - 'img "godrays are expensive :( #gamedev #indiedev #screenshotsaturday" [ref=e887]'
+        - generic [ref=e888]:
+          - 'heading "godrays are expensive :( #gamedev #indiedev #screenshotsaturday" [level=3] [ref=e889]'
+          - generic [ref=e890]:
+            - generic [ref=e891]: flav
+            - generic [ref=e892]: bsky
+            - generic [ref=e893]: May 3, 2026
+          - link "View on Bluesky" [ref=e894]:
+            - /url: https://bsky.app/profile/tinygame.dev/post/3mkxqosiojc2s
+            - text: View on Bluesky
+            - img [ref=e895]
+      - article [ref=e897] [cursor=pointer]:
+        - generic [ref=e899]:
+          - 'img "Transitions and music ques down! I can get back to making the fun part of #IndieGame! Heavy slam now reflect most projec" [ref=e900]'
+          - generic:
+            - img
+        - generic [ref=e901]:
+          - 'heading "Transitions and music ques down! I can get back to making the fun part of #IndieGame! Heavy slam now reflect most projec" [level=3] [ref=e902]'
+          - paragraph [ref=e903]: "Transitions and music ques down! I can get back to making the fun part of #IndieGame! Heavy slam now reflect most projectiles and does significant damage to the #pixelart monsters. Also got the end b"
+          - generic [ref=e904]:
+            - generic [ref=e905]: Tippedchair
+            - generic [ref=e906]: bsky
+            - generic [ref=e907]: May 3, 2026
+          - link "View on Bluesky" [ref=e908]:
+            - /url: https://bsky.app/profile/tippedchair.bsky.social/post/3mkxnnu4crc2y
+            - text: View on Bluesky
+            - img [ref=e909]
+      - article [ref=e911] [cursor=pointer]:
+        - 'img "I missed #screenshotsaturday by a few hours, but I just put up a prototype build of my game, #Knifepoint, if anyone is i" [ref=e913]'
+        - generic [ref=e914]:
+          - 'heading "I missed #screenshotsaturday by a few hours, but I just put up a prototype build of my game, #Knifepoint, if anyone is i" [level=3] [ref=e915]'
+          - paragraph [ref=e916]: "I missed #screenshotsaturday by a few hours, but I just put up a prototype build of my game, #Knifepoint, if anyone is interested in top-down shooters. I'm not sure if development will continue, but s"
+          - generic [ref=e917]:
+            - generic [ref=e918]: Killswitch5150
+            - generic [ref=e919]: bsky
+            - generic [ref=e920]: May 3, 2026
+          - link "View on Bluesky" [ref=e921]:
+            - /url: https://bsky.app/profile/killswitch5150.bsky.social/post/3mkxnhucvck2k
+            - text: View on Bluesky
+            - img [ref=e922]
+      - article [ref=e924] [cursor=pointer]:
+        - generic [ref=e926]:
+          - 'img "The New Bastion Gateway: Road to Sol. Pre-destruction era. That Spearhead Dropship is not carrying mechs today... WIP of" [ref=e927]'
+          - generic:
+            - img
+        - generic [ref=e928]:
+          - 'heading "The New Bastion Gateway: Road to Sol. Pre-destruction era. That Spearhead Dropship is not carrying mechs today... WIP of" [level=3] [ref=e929]'
+          - paragraph [ref=e930]: "The New Bastion Gateway: Road to Sol. Pre-destruction era. That Spearhead Dropship is not carrying mechs today... WIP of the Drop Command intro cinematic. #screenshotsaturday #indiegamedev"
+          - generic [ref=e931]:
+            - generic [ref=e932]: Matthew Parker
+            - generic [ref=e933]: bsky
+            - generic [ref=e934]: May 3, 2026
+          - link "View on Bluesky" [ref=e935]:
+            - /url: https://bsky.app/profile/pillbuggames.bsky.social/post/3mkxmpdqkxk2v
+            - text: View on Bluesky
+            - img [ref=e936]
+      - article [ref=e938] [cursor=pointer]:
+        - 'img "Perhaps a little late for #Screenshotsaturday (maybe even for #screenshotsunday in this timezone?) but here we go... a l" [ref=e940]'
+        - generic [ref=e941]:
+          - 'heading "Perhaps a little late for #Screenshotsaturday (maybe even for #screenshotsunday in this timezone?) but here we go... a l" [level=3] [ref=e942]'
+          - paragraph [ref=e943]: "Perhaps a little late for #Screenshotsaturday (maybe even for #screenshotsunday in this timezone?) but here we go... a little fiddling with #Openbox The applet icons in the panel are still a little gl"
+          - generic [ref=e944]:
+            - generic [ref=e945]: "@Klaus Zimmermann :unverified:"
+            - generic [ref=e946]: mastodon
+            - generic [ref=e947]: May 3, 2026
+          - link "View on Mastodon" [ref=e948]:
+            - /url: https://c.im/@kzimmermann/116511448679979610
+            - text: View on Mastodon
+            - img [ref=e949]
+      - article [ref=e951] [cursor=pointer]:
+        - generic [ref=e953]:
+          - 'img "Prototyping a new character 👀 #screenshotsaturday #indiegame #godotengine #indiedev #castlevania" [ref=e954]'
+          - generic:
+            - img
+        - generic [ref=e955]:
+          - 'heading "Prototyping a new character 👀 #screenshotsaturday #indiegame #godotengine #indiedev #castlevania" [level=3] [ref=e956]'
+          - generic [ref=e957]:
+            - generic [ref=e958]: Deprecated Games 💾
+            - generic [ref=e959]: bsky
+            - generic [ref=e960]: May 3, 2026
+          - link "View on Bluesky" [ref=e961]:
+            - /url: https://bsky.app/profile/deprecatedgames.bsky.social/post/3mkxhelvpbs2m
+            - text: View on Bluesky
+            - img [ref=e962]
+      - article [ref=e964] [cursor=pointer]:
+        - img "I absolutely, undoubtedly LOVE Lua. ♥️ It's my favourite language along C (C, not C++!) 👀 What's *your* favourite lang" [ref=e966]
+        - generic [ref=e967]:
+          - heading "I absolutely, undoubtedly LOVE Lua. ♥️ It's my favourite language along C (C, not C++!) 👀 What's *your* favourite lang" [level=3] [ref=e968]
+          - paragraph [ref=e969]: I absolutely, undoubtedly LOVE Lua. ♥️ It's my favourite language along C (C, not C++!) 👀 What's *your* favourite language? Let me know in the comments! 🤔😍 AME is mostly built in Lua, unsurprisin
+          - generic [ref=e970]:
+            - generic [ref=e971]: lucagge.bsky.social
+            - generic [ref=e972]: bsky
+            - generic [ref=e973]: May 3, 2026
+          - link "View on Bluesky" [ref=e974]:
+            - /url: https://bsky.app/profile/lucagge.bsky.social/post/3mkx4p52og22a
+            - text: View on Bluesky
+            - img [ref=e975]
+      - article [ref=e977] [cursor=pointer]:
+        - generic [ref=e979]:
+          - img "Ever wanted to swim with Whales in the sky? Now you can in the highly rated Among Giants 🐋 OUT NOW www.meta.com/en-gb/" [ref=e980]
+          - generic:
+            - img
+        - generic [ref=e981]:
+          - heading "Ever wanted to swim with Whales in the sky? Now you can in the highly rated Among Giants 🐋 OUT NOW www.meta.com/en-gb/" [level=3] [ref=e982]
+          - paragraph [ref=e983]: "Ever wanted to swim with Whales in the sky? Now you can in the highly rated Among Giants 🐋 OUT NOW www.meta.com/en-gb/experi... #indiegame #gamedev #indiedev #vr #vrgaming #metaquest #screenshotsat"
+          - generic [ref=e984]:
+            - generic [ref=e985]: K Monkey - AMONG GIANTS OUT NOW
+            - generic [ref=e986]: bsky
+            - generic [ref=e987]: May 3, 2026
+          - link "View on Bluesky" [ref=e988]:
+            - /url: https://bsky.app/profile/kmonkeygames.bsky.social/post/3mkx36qtsds2m
+            - text: View on Bluesky
+            - img [ref=e989]
+      - article [ref=e991] [cursor=pointer]:
+        - generic [ref=e993]:
+          - img "added a 'chaos meter' to Cathode (it's the grinning cat face in the top left). it will rank you on how quickly and rapid" [ref=e994]
+          - generic:
+            - img
+        - generic [ref=e995]:
+          - heading "added a 'chaos meter' to Cathode (it's the grinning cat face in the top left). it will rank you on how quickly and rapid" [level=3] [ref=e996]
+          - paragraph [ref=e997]: "added a 'chaos meter' to Cathode (it's the grinning cat face in the top left). it will rank you on how quickly and rapidly you can cause chaos! #ScreenshotSaturday #gamedev #indiedev"
+          - generic [ref=e998]:
+            - generic [ref=e999]: cathodegame.bsky.social
+            - generic [ref=e1000]: bsky
+            - generic [ref=e1001]: May 3, 2026
+          - link "View on Bluesky" [ref=e1002]:
+            - /url: https://bsky.app/profile/cathodegame.bsky.social/post/3mkwzhumu522k
+            - text: View on Bluesky
+            - img [ref=e1003]
+      - article [ref=e1005] [cursor=pointer]:
+        - 'img "A late #ScreenshotSaturday, my friends! What are you working on this weekend? #art #artist #digitalart #digitalartist #" [ref=e1007]'
+        - generic [ref=e1008]:
+          - 'heading "A late #ScreenshotSaturday, my friends! What are you working on this weekend? #art #artist #digitalart #digitalartist #" [level=3] [ref=e1009]'
+          - paragraph [ref=e1010]: "A late #ScreenshotSaturday, my friends! What are you working on this weekend? #art #artist #digitalart #digitalartist #Shappa #Heatstroke #rvtoc If you are interested in joining the project and cont"
+          - generic [ref=e1011]:
+            - generic [ref=e1012]: The Eternal Jackal
+            - generic [ref=e1013]: bsky
+            - generic [ref=e1014]: May 3, 2026
+          - link "View on Bluesky" [ref=e1015]:
+            - /url: https://bsky.app/profile/theeternaljackal.bsky.social/post/3mkwqlhisgc2x
+            - text: View on Bluesky
+            - img [ref=e1016]
+      - article [ref=e1018] [cursor=pointer]:
+        - generic [ref=e1020]:
+          - 'img "small improvements today, replacing placeholder enemy art and behaviour :'') #IndieDev #screenshotsaturday" [ref=e1021]'
+          - generic:
+            - img
+        - generic [ref=e1022]:
+          - 'heading "small improvements today, replacing placeholder enemy art and behaviour :'') #IndieDev #screenshotsaturday" [level=3] [ref=e1023]'
+          - generic [ref=e1024]:
+            - generic [ref=e1025]: Axis Shift
+            - generic [ref=e1026]: bsky
+            - generic [ref=e1027]: May 3, 2026
+          - link "View on Bluesky" [ref=e1028]:
+            - /url: https://bsky.app/profile/axisshiftgame.bsky.social/post/3mkwogu2mn22z
+            - text: View on Bluesky
+            - img [ref=e1029]
+      - article [ref=e1031] [cursor=pointer]:
+        - 'img "Wishlists has surpassed 9,000! I will keep working hard toward a release this summer! #ScreenshotSaturday" [ref=e1033]'
+        - generic [ref=e1034]:
+          - 'heading "Wishlists has surpassed 9,000! I will keep working hard toward a release this summer! #ScreenshotSaturday" [level=3] [ref=e1035]'
+          - generic [ref=e1036]:
+            - generic [ref=e1037]: Northern Studio
+            - generic [ref=e1038]: bsky
+            - generic [ref=e1039]: May 3, 2026
+          - link "View on Bluesky" [ref=e1040]:
+            - /url: https://bsky.app/profile/northernstudio.bsky.social/post/3mkwmk3bpj22q
+            - text: View on Bluesky
+            - img [ref=e1041]
+      - article [ref=e1043] [cursor=pointer]:
+        - generic [ref=e1045]:
+          - 'img "Screenshot Saturday: one minute of me trying to survive the capitalist dystopia." [ref=e1046]'
+          - generic:
+            - img
+        - generic [ref=e1047]:
+          - 'heading "Screenshot Saturday: one minute of me trying to survive the capitalist dystopia." [level=3] [ref=e1048]'
+          - paragraph [ref=e1049]: "Still rough, but this is the loop I’m testing this week: get wiped, pick a portal from the orbital map, then drop back into contested territory and try to claw back budget/control. The UI is absolute"
+          - generic [ref=e1050]:
+            - generic [ref=e1051]: u/Cold_Leader6417
+            - generic [ref=e1052]: r/IndieDev
+            - generic [ref=e1053]: May 3, 2026
+          - link "View on Reddit" [ref=e1054]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1t2dnsp/screenshot_saturday_one_minute_of_me_trying_to/
+            - text: View on Reddit
+            - img [ref=e1055]
+      - article [ref=e1057] [cursor=pointer]:
+        - 'img "Late to #screenshotsaturday but spent a little bit setting up the first steps towards adding items to the game #gamemak" [ref=e1059]'
+        - generic [ref=e1060]:
+          - 'heading "Late to #screenshotsaturday but spent a little bit setting up the first steps towards adding items to the game #gamemak" [level=3] [ref=e1061]'
+          - paragraph [ref=e1062]: "Late to #screenshotsaturday but spent a little bit setting up the first steps towards adding items to the game #gamemaker #indiegames #gamedev #tft"
+          - generic [ref=e1063]:
+            - generic [ref=e1064]: datadays.bsky.social
+            - generic [ref=e1065]: bsky
+            - generic [ref=e1066]: May 3, 2026
+          - link "View on Bluesky" [ref=e1067]:
+            - /url: https://bsky.app/profile/datadays.bsky.social/post/3mkwixoknf22h
+            - text: View on Bluesky
+            - img [ref=e1068]
+      - article [ref=e1070] [cursor=pointer]:
+        - img "Alright Fediverse, Veridian Expanse is my twin stick crafting exploration game. A bit like a sci-fi arcade-y Terraria or" [ref=e1072]
+        - generic [ref=e1073]:
+          - heading "Alright Fediverse, Veridian Expanse is my twin stick crafting exploration game. A bit like a sci-fi arcade-y Terraria or" [level=3] [ref=e1074]
+          - paragraph [ref=e1075]: Alright Fediverse, Veridian Expanse is my twin stick crafting exploration game. A bit like a sci-fi arcade-y Terraria or Subnautica. Written in C with a custom renderer and fancy 2D lighting. :D I'm t
+          - generic [ref=e1076]:
+            - generic [ref=e1077]: "@Veridian Expanse"
+            - generic [ref=e1078]: mastodon
+            - generic [ref=e1079]: May 2, 2026
+          - link "View on Mastodon" [ref=e1080]:
+            - /url: https://mastodon.gamedev.place/@VeridianExpanse/116508556036375113
+            - text: View on Mastodon
+            - img [ref=e1081]
+      - article [ref=e1083] [cursor=pointer]:
+        - generic [ref=e1085]:
+          - img "Sketched down some ideas for a cool new concept the other day! Made some progress implementing what I'm calling \"Twodot\"" [ref=e1086]
+          - generic:
+            - img
+        - generic [ref=e1087]:
+          - heading "Sketched down some ideas for a cool new concept the other day! Made some progress implementing what I'm calling \"Twodot\"" [level=3] [ref=e1088]
+          - paragraph [ref=e1089]: "Sketched down some ideas for a cool new concept the other day! Made some progress implementing what I'm calling \"Twodot\": Twine + Godot #godot #godotengine #gamedev #twine #screenshotsaturday"
+          - generic [ref=e1090]:
+            - generic [ref=e1091]: "@ambiguousname"
+            - generic [ref=e1092]: mastodon
+            - generic [ref=e1093]: May 2, 2026
+          - link "View on Mastodon" [ref=e1094]:
+            - /url: https://mathstodon.xyz/@ambiguousname/116508386806908211
+            - text: View on Mastodon
+            - img [ref=e1095]
+      - article [ref=e1097] [cursor=pointer]:
+        - 'img "𝗝𝘂𝘀𝘁 𝘁𝗵𝗲 𝘁𝗶𝗽𝘀 #𝟬𝟬𝟬𝟭𝟬𝟬𝟬𝟬 🍆 Productivity is overrated. Good ideas and execution beat productivity ever" [ref=e1099]'
+        - generic [ref=e1100]:
+          - 'heading "𝗝𝘂𝘀𝘁 𝘁𝗵𝗲 𝘁𝗶𝗽𝘀 #𝟬𝟬𝟬𝟭𝟬𝟬𝟬𝟬 🍆 Productivity is overrated. Good ideas and execution beat productivity ever" [level=3] [ref=e1101]'
+          - paragraph [ref=e1102]: "𝗝𝘂𝘀𝘁 𝘁𝗵𝗲 𝘁𝗶𝗽𝘀 #𝟬𝟬𝟬𝟭𝟬𝟬𝟬𝟬 🍆 Productivity is overrated. Good ideas and execution beat productivity every time #solodev #philosophy #goodpeople #screenShotSaturday"
+          - generic [ref=e1103]:
+            - generic [ref=e1104]: "@SoundSafari"
+            - generic [ref=e1105]: mastodon
+            - generic [ref=e1106]: May 2, 2026
+          - link "View on Mastodon" [ref=e1107]:
+            - /url: https://mastodon.social/@soundsafari/116507955591624720
+            - text: View on Mastodon
+            - img [ref=e1108]
+      - article [ref=e1110] [cursor=pointer]:
+        - 'img "#ScreenshotSaturday #TheFixinTo #centipede #atari #arcadegame #retroarcades #stjohns #portland #videogame #highscore #no" [ref=e1112]'
+        - generic [ref=e1113]:
+          - 'heading "#ScreenshotSaturday #TheFixinTo #centipede #atari #arcadegame #retroarcades #stjohns #portland #videogame #highscore #no" [level=3] [ref=e1114]'
+          - paragraph [ref=e1115]: "#ScreenshotSaturday #TheFixinTo #centipede #atari #arcadegame #retroarcades #stjohns #portland #videogame #highscore #nogenerativeai Centipede Queen"
+          - generic [ref=e1116]:
+            - generic [ref=e1117]: "@Ricardo Wang"
+            - generic [ref=e1118]: mastodon
+            - generic [ref=e1119]: May 2, 2026
+          - link "View on Mastodon" [ref=e1120]:
+            - /url: https://mastodon.social/@RicardoWang/116507907229851823
+            - text: View on Mastodon
+            - img [ref=e1121]
+      - article [ref=e1123] [cursor=pointer]:
+        - generic [ref=e1125]:
+          - img "You know, I replayed this for, like, 10 times already. So I was working not only on visual style of theGRIMOIRE_, but al" [ref=e1126]
+          - generic:
+            - img
+        - generic [ref=e1127]:
+          - heading "You know, I replayed this for, like, 10 times already. So I was working not only on visual style of theGRIMOIRE_, but al" [level=3] [ref=e1128]
+          - paragraph [ref=e1129]: You know, I replayed this for, like, 10 times already. So I was working not only on visual style of theGRIMOIRE_, but also on, sort of, salvaging what I had gameplay-wise in my jam entry. So far, I ha
+          - generic [ref=e1130]:
+            - generic [ref=e1131]: "@0x0961h"
+            - generic [ref=e1132]: mastodon
+            - generic [ref=e1133]: May 2, 2026
+          - link "View on Mastodon" [ref=e1134]:
+            - /url: https://mastodon.gamedev.place/@0x0961h/116507347914866102
+            - text: View on Mastodon
+            - img [ref=e1135]
+      - article [ref=e1137] [cursor=pointer]:
+        - 'img "#screenshotsaturday Pixel by Pixel working on Titlescreen art, living life ✨ #ProjectZwilling #gamedev" [ref=e1139]'
+        - generic [ref=e1140]:
+          - 'heading "#screenshotsaturday Pixel by Pixel working on Titlescreen art, living life ✨ #ProjectZwilling #gamedev" [level=3] [ref=e1141]'
+          - generic [ref=e1142]:
+            - generic [ref=e1143]: "@Sabaku | BUBSY 4D DEMO OUT"
+            - generic [ref=e1144]: mastodon
+            - generic [ref=e1145]: May 2, 2026
+          - link "View on Mastodon" [ref=e1146]:
+            - /url: https://fed.brid.gy/r/https://bsky.app/profile/did:plc:r2hfpvxcr34feuy37umlqsud/post/3mkvotblje22s
+            - text: View on Mastodon
+            - img [ref=e1147]
+      - article [ref=e1149] [cursor=pointer]:
+        - generic [ref=e1151]:
+          - 'img "New #Kofoin update, with no less than … The ✨meta-progression system ✨! 🐝 Hive and bee stats increase 🔮 Blessings unlo" [ref=e1152]'
+          - generic:
+            - img
+        - generic [ref=e1153]:
+          - 'heading "New #Kofoin update, with no less than … The ✨meta-progression system ✨! 🐝 Hive and bee stats increase 🔮 Blessings unlo" [level=3] [ref=e1154]'
+          - paragraph [ref=e1155]: "New #Kofoin update, with no less than … The ✨meta-progression system ✨! 🐝 Hive and bee stats increase 🔮 Blessings unlock Biomes are still being worked on, some upgrades are still locked for now 😉 �"
+          - generic [ref=e1156]:
+            - generic [ref=e1157]: "@Tokiko Studio"
+            - generic [ref=e1158]: mastodon
+            - generic [ref=e1159]: May 2, 2026
+          - link "View on Mastodon" [ref=e1160]:
+            - /url: https://mastodon.gamedev.place/@tokikostudio/116507322005368536
+            - text: View on Mastodon
+            - img [ref=e1161]
+      - article [ref=e1163] [cursor=pointer]:
+        - generic [ref=e1165]:
+          - 'img "The Gumiho dashes around between her attacks, making the boss fight more dynamic! #screenshotsaturday #godot #pixelart #" [ref=e1166]'
+          - generic:
+            - img
+        - generic [ref=e1167]:
+          - 'heading "The Gumiho dashes around between her attacks, making the boss fight more dynamic! #screenshotsaturday #godot #pixelart #" [level=3] [ref=e1168]'
+          - paragraph [ref=e1169]: "The Gumiho dashes around between her attacks, making the boss fight more dynamic! #screenshotsaturday #godot #pixelart #indiedev"
+          - generic [ref=e1170]:
+            - generic [ref=e1171]: "@Jetpackgone"
+            - generic [ref=e1172]: mastodon
+            - generic [ref=e1173]: May 2, 2026
+          - link "View on Mastodon" [ref=e1174]:
+            - /url: https://mastodon.gamedev.place/@jetpackgone/116507299622262269
+            - text: View on Mastodon
+            - img [ref=e1175]
+      - article [ref=e1177] [cursor=pointer]:
+        - img "Getting some playback issues with that video for some reason, also the downside of posting video of a screen intro that" [ref=e1179]
+        - generic [ref=e1180]:
+          - heading "Getting some playback issues with that video for some reason, also the downside of posting video of a screen intro that" [level=3] [ref=e1181]
+          - paragraph [ref=e1182]: Getting some playback issues with that video for some reason, also the downside of posting video of a screen intro that fades from black is that the thumbnail is just a black screen. So here's a close
+          - generic [ref=e1183]:
+            - generic [ref=e1184]: "@Miguel 🦑 Sternberg"
+            - generic [ref=e1185]: mastodon
+            - generic [ref=e1186]: May 2, 2026
+          - link "View on Mastodon" [ref=e1187]:
+            - /url: https://mastodon.social/@spookysquid/116507226158174761
+            - text: View on Mastodon
+            - img [ref=e1188]
+      - article [ref=e1190] [cursor=pointer]:
+        - generic [ref=e1191]:
+          - 'img "Here''s some WIP stuff from an unannounced game Im working on for #screenshotsaturday!" [ref=e1192]'
+          - generic [ref=e1193]:
+            - img [ref=e1194]
+            - text: "3"
+        - generic [ref=e1198]:
+          - 'heading "Here''s some WIP stuff from an unannounced game Im working on for #screenshotsaturday!" [level=3] [ref=e1199]'
+          - generic [ref=e1200]:
+            - generic [ref=e1201]: "@SainguinPixels"
+            - generic [ref=e1202]: mastodon
+            - generic [ref=e1203]: May 2, 2026
+          - link "View on Mastodon" [ref=e1204]:
+            - /url: https://mastodon.social/@sainguinpixels/116507222549443610
+            - text: View on Mastodon
+            - img [ref=e1205]
+      - article [ref=e1207] [cursor=pointer]:
+        - generic [ref=e1209]:
+          - 'img "Made new hint screen dioramas for #GoblinGirlGame and decided the hint screen intro needed some JUICE! #screenshotsaturd" [ref=e1210]'
+          - generic:
+            - img
+        - generic [ref=e1211]:
+          - 'heading "Made new hint screen dioramas for #GoblinGirlGame and decided the hint screen intro needed some JUICE! #screenshotsaturd" [level=3] [ref=e1212]'
+          - paragraph [ref=e1213]: "Made new hint screen dioramas for #GoblinGirlGame and decided the hint screen intro needed some JUICE! #screenshotsaturday #GoblinGirlGame #gameui #gamemaker #indiedev #gamedev"
+          - generic [ref=e1214]:
+            - generic [ref=e1215]: "@Miguel 🦑 Sternberg"
+            - generic [ref=e1216]: mastodon
+            - generic [ref=e1217]: May 2, 2026
+          - link "View on Mastodon" [ref=e1218]:
+            - /url: https://mastodon.social/@spookysquid/116507175953871797
+            - text: View on Mastodon
+            - img [ref=e1219]
+      - article [ref=e1221] [cursor=pointer]:
+        - 'img "In today''s Din''s Champion screenshot: that lifestone would be useful, but it''s kind of out of reach. :) And who put a to" [ref=e1223]'
+        - generic [ref=e1224]:
+          - 'heading "In today''s Din''s Champion screenshot: that lifestone would be useful, but it''s kind of out of reach. :) And who put a to" [level=3] [ref=e1225]'
+          - paragraph [ref=e1226]: "In today's Din's Champion screenshot: that lifestone would be useful, but it's kind of out of reach. :) And who put a torch over there? #screenshotsaturday #indiegame #indiedev"
+          - generic [ref=e1227]:
+            - generic [ref=e1228]: "@Soldak Entertainment"
+            - generic [ref=e1229]: mastodon
+            - generic [ref=e1230]: May 2, 2026
+          - link "View on Mastodon" [ref=e1231]:
+            - /url: https://mastodon.gamedev.place/@Soldak/116507153890735437
+            - text: View on Mastodon
+            - img [ref=e1232]
+      - article [ref=e1234] [cursor=pointer]:
+        - generic [ref=e1236]:
+          - img "Want to take a break in your quest to save your kingdom? Luckily, the Earlyne Olympiad has all you need, with 5 optional" [ref=e1237]
+          - generic:
+            - img
+        - generic [ref=e1238]:
+          - heading "Want to take a break in your quest to save your kingdom? Luckily, the Earlyne Olympiad has all you need, with 5 optional" [level=3] [ref=e1239]
+          - paragraph [ref=e1240]: "Want to take a break in your quest to save your kingdom? Luckily, the Earlyne Olympiad has all you need, with 5 optional mini-games such as the Chariot Race! 🏎️ Wishlist Knight George: https://store."
+          - generic [ref=e1241]:
+            - generic [ref=e1242]: "@Linky439"
+            - generic [ref=e1243]: mastodon
+            - generic [ref=e1244]: May 2, 2026
+          - link "View on Mastodon" [ref=e1245]:
+            - /url: https://mastodon.gamedev.place/@linky439/116507041736827257
+            - text: View on Mastodon
+            - img [ref=e1246]
+      - article [ref=e1248] [cursor=pointer]:
+        - 'img "Happy Halfoween! 💀⚰️🎃 #screenshotsaturday #halfoween #halloween #godot #gamedev" [ref=e1250]'
+        - generic [ref=e1251]:
+          - 'heading "Happy Halfoween! 💀⚰️🎃 #screenshotsaturday #halfoween #halloween #godot #gamedev" [level=3] [ref=e1252]'
+          - generic [ref=e1253]:
+            - generic [ref=e1254]: "@Orange Side Up"
+            - generic [ref=e1255]: mastodon
+            - generic [ref=e1256]: May 2, 2026
+          - link "View on Mastodon" [ref=e1257]:
+            - /url: https://mastodon.gamedev.place/@orangesideup/116506898118475977
+            - text: View on Mastodon
+            - img [ref=e1258]
+      - article [ref=e1260] [cursor=pointer]:
+        - img "#screenshotSaturday not a game but data from a game - value density plot -" [ref=e1262]
+        - generic [ref=e1263]:
+          - heading "#screenshotSaturday not a game but data from a game - value density plot -" [level=3] [ref=e1264]
+          - generic [ref=e1265]:
+            - generic [ref=e1266]: "@Brad P. Taylor"
+            - generic [ref=e1267]: mastodon
+            - generic [ref=e1268]: May 2, 2026
+          - link "View on Mastodon" [ref=e1269]:
+            - /url: https://corteximplant.com/@lardratboy/116506879847435330
+            - text: View on Mastodon
+            - img [ref=e1270]
+      - article [ref=e1272] [cursor=pointer]:
+        - 'img "#screenshotsaturday #diablo #diabloiv" [ref=e1274]'
+        - generic [ref=e1275]:
+          - 'heading "#screenshotsaturday #diablo #diabloiv" [level=3] [ref=e1276]'
+          - generic [ref=e1277]:
+            - generic [ref=e1278]: "@iamdtms"
+            - generic [ref=e1279]: mastodon
+            - generic [ref=e1280]: May 2, 2026
+          - link "View on Mastodon" [ref=e1281]:
+            - /url: https://mas.to/@iamdtms/116506874641950803
+            - text: View on Mastodon
+            - img [ref=e1282]
+      - article [ref=e1284] [cursor=pointer]:
+        - generic [ref=e1286]:
+          - img "hello! its may! the release month of Enigmatic Worlds! oh boi! hopefully i dont miss some big bug or something (wouldnt" [ref=e1287]
+          - generic:
+            - img
+        - generic [ref=e1288]:
+          - heading "hello! its may! the release month of Enigmatic Worlds! oh boi! hopefully i dont miss some big bug or something (wouldnt" [level=3] [ref=e1289]
+          - paragraph [ref=e1290]: hello! its may! the release month of Enigmatic Worlds! oh boi! hopefully i dont miss some big bug or something (wouldnt be surprising if i did though lol, gonna try my best) https://store.steampowered
+          - generic [ref=e1291]:
+            - generic [ref=e1292]: "@Darsycho the mr gamedev guy ye"
+            - generic [ref=e1293]: mastodon
+            - generic [ref=e1294]: May 2, 2026
+          - link "View on Mastodon" [ref=e1295]:
+            - /url: https://mastodon.gamedev.place/@Darsycho2/116506874571664202
+            - text: View on Mastodon
+            - img [ref=e1296]
+      - article [ref=e1298] [cursor=pointer]:
+        - 'img "Me: The interior should be a library for blind beings that rely on smell and touch. They can see when they eat, so there" [ref=e1300]'
+        - generic [ref=e1301]:
+          - 'heading "Me: The interior should be a library for blind beings that rely on smell and touch. They can see when they eat, so there" [level=3] [ref=e1302]'
+          - paragraph [ref=e1303]: "Me: The interior should be a library for blind beings that rely on smell and touch. They can see when they eat, so there should be labels as well. The beds should be comfy medical beds. ...At least I'"
+          - generic [ref=e1304]:
+            - generic [ref=e1305]: "@tararntula"
+            - generic [ref=e1306]: mastodon
+            - generic [ref=e1307]: May 2, 2026
+          - link "View on Mastodon" [ref=e1308]:
+            - /url: https://mastodon.social/@tararntula/116506786987147874
+            - text: View on Mastodon
+            - img [ref=e1309]
+      - article [ref=e1311] [cursor=pointer]:
+        - generic [ref=e1312]:
+          - img "Been working on some UI. The main HUD is mostly complete and looks fairly accurate to the original. I'm also planning on" [ref=e1313]
+          - generic [ref=e1314]:
+            - img [ref=e1315]
+            - text: "2"
+        - generic [ref=e1319]:
+          - heading "Been working on some UI. The main HUD is mostly complete and looks fairly accurate to the original. I'm also planning on" [level=3] [ref=e1320]
+          - paragraph [ref=e1321]: Been working on some UI. The main HUD is mostly complete and looks fairly accurate to the original. I'm also planning on doing an alternative HUD layout, that, y'know, doesn't WASTE LIKE 33% OF THE SC
+          - generic [ref=e1322]:
+            - generic [ref=e1323]: "@Trigonated"
+            - generic [ref=e1324]: mastodon
+            - generic [ref=e1325]: May 2, 2026
+          - link "View on Mastodon" [ref=e1326]:
+            - /url: https://bitbang.social/@trigonated/116506700872203581
+            - text: View on Mastodon
+            - img [ref=e1327]
+      - article [ref=e1329] [cursor=pointer]:
+        - 'img "#screenshotsaturday adding machetes & umbrella-spears because I can 🎪 #gamedev #MessageLost" [ref=e1331]'
+        - generic [ref=e1332]:
+          - 'heading "#screenshotsaturday adding machetes & umbrella-spears because I can 🎪 #gamedev #MessageLost" [level=3] [ref=e1333]'
+          - generic [ref=e1334]:
+            - generic [ref=e1335]: "@꧁ᐊ𰻞ᵕ̣̣̣̣̣̣́́♛ᵕ̣̣̣̣̣̣́́𰻞ᐅ꧂"
+            - generic [ref=e1336]: mastodon
+            - generic [ref=e1337]: May 2, 2026
+          - link "View on Mastodon" [ref=e1338]:
+            - /url: https://mastodon.gamedev.place/@idontlikenames/116506246466371352
+            - text: View on Mastodon
+            - img [ref=e1339]
+      - article [ref=e1341] [cursor=pointer]:
+        - generic [ref=e1343]:
+          - img "Hiya everyone! Back for another update to TRAPLETS! I added projectiles! They only really shove the enemies right now, b" [ref=e1344]
+          - generic:
+            - img
+        - generic [ref=e1345]:
+          - heading "Hiya everyone! Back for another update to TRAPLETS! I added projectiles! They only really shove the enemies right now, b" [level=3] [ref=e1346]
+          - paragraph [ref=e1347]: "Hiya everyone! Back for another update to TRAPLETS! I added projectiles! They only really shove the enemies right now, but I think thats a big step already :blobcatroll: It's been a messy week so ther"
+          - generic [ref=e1348]:
+            - generic [ref=e1349]: "@Linen"
+            - generic [ref=e1350]: mastodon
+            - generic [ref=e1351]: May 2, 2026
+          - link "View on Mastodon" [ref=e1352]:
+            - /url: https://mstdn.social/@breakfulus/116506200952748075
+            - text: View on Mastodon
+            - img [ref=e1353]
+      - article [ref=e1355] [cursor=pointer]:
+        - 'img "Here’s an actual screenshot for #screenshotsaturday" [ref=e1357]'
+        - generic [ref=e1358]:
+          - 'heading "Here’s an actual screenshot for #screenshotsaturday" [level=3] [ref=e1359]'
+          - generic [ref=e1360]:
+            - generic [ref=e1361]: "@Jenny"
+            - generic [ref=e1362]: mastodon
+            - generic [ref=e1363]: May 2, 2026
+          - link "View on Mastodon" [ref=e1364]:
+            - /url: https://mastodon.gamedev.place/@jennydevs/116506190317108422
+            - text: View on Mastodon
+            - img [ref=e1365]
+      - article [ref=e1367] [cursor=pointer]:
+        - generic [ref=e1369]:
+          - 'img "“Oi” Not much progress, but head turning is smoother! Time based interpolation settings: 0.25s / linear / inout #screens" [ref=e1370]'
+          - generic:
+            - img
+        - generic [ref=e1371]:
+          - 'heading "“Oi” Not much progress, but head turning is smoother! Time based interpolation settings: 0.25s / linear / inout #screens" [level=3] [ref=e1372]'
+          - paragraph [ref=e1373]: "“Oi” Not much progress, but head turning is smoother! Time based interpolation settings: 0.25s / linear / inout #screenshotsaturday #godot #gamedev"
+          - generic [ref=e1374]:
+            - generic [ref=e1375]: "@Jenny"
+            - generic [ref=e1376]: mastodon
+            - generic [ref=e1377]: May 2, 2026
+          - link "View on Mastodon" [ref=e1378]:
+            - /url: https://mastodon.gamedev.place/@jennydevs/116506184439293126
+            - text: View on Mastodon
+            - img [ref=e1379]
+      - article [ref=e1381] [cursor=pointer]:
+        - 'img "Fluff fluff fluff. I made some fluffy assets this week… #ScreenshotSaturday #IndieGame #IndieDev #PixelArt #Isometric" [ref=e1383]'
+        - generic [ref=e1384]:
+          - 'heading "Fluff fluff fluff. I made some fluffy assets this week… #ScreenshotSaturday #IndieGame #IndieDev #PixelArt #Isometric" [level=3] [ref=e1385]'
+          - generic [ref=e1386]:
+            - generic [ref=e1387]: "@Rain Winther"
+            - generic [ref=e1388]: mastodon
+            - generic [ref=e1389]: May 2, 2026
+          - link "View on Mastodon" [ref=e1390]:
+            - /url: https://mastodon.gamedev.place/@rainwinther/116506148478722206
+            - text: View on Mastodon
+            - img [ref=e1391]
+      - article [ref=e1393] [cursor=pointer]:
+        - generic [ref=e1395]:
+          - img "Last week I revised actions, this week I've been revising event encounters. Some are silly, some are more thematic, some" [ref=e1396]
+          - generic:
+            - img
+        - generic [ref=e1397]:
+          - heading "Last week I revised actions, this week I've been revising event encounters. Some are silly, some are more thematic, some" [level=3] [ref=e1398]
+          - paragraph [ref=e1399]: Last week I revised actions, this week I've been revising event encounters. Some are silly, some are more thematic, some are getting axed, and I'm coming up with new ones. Here's 2 existing ones that
+          - generic [ref=e1400]:
+            - generic [ref=e1401]: "@jeremy // making Star Spark"
+            - generic [ref=e1402]: mastodon
+            - generic [ref=e1403]: May 2, 2026
+          - link "View on Mastodon" [ref=e1404]:
+            - /url: https://mastodon.social/@jeremyjackson/116506133809677720
+            - text: View on Mastodon
+            - img [ref=e1405]
+      - article [ref=e1407] [cursor=pointer]:
+        - generic [ref=e1408]:
+          - img "Continuing to expand on this old game concept. Now traps can ensnare the player and alert guards, so you'll have to brea" [ref=e1409]
+          - generic [ref=e1410]:
+            - img [ref=e1411]
+            - text: "2"
+        - generic [ref=e1415]:
+          - heading "Continuing to expand on this old game concept. Now traps can ensnare the player and alert guards, so you'll have to brea" [level=3] [ref=e1416]
+          - paragraph [ref=e1417]: Continuing to expand on this old game concept. Now traps can ensnare the player and alert guards, so you'll have to break out quickly! On the other hand, you have tools to distract guards like noisema
+          - generic [ref=e1418]:
+            - generic [ref=e1419]: "@Inglo Games"
+            - generic [ref=e1420]: mastodon
+            - generic [ref=e1421]: May 2, 2026
+          - link "View on Mastodon" [ref=e1422]:
+            - /url: https://mastodon.gamedev.place/@IngloGamesDev/116505991344159311
+            - text: View on Mastodon
+            - img [ref=e1423]
+      - article [ref=e1425] [cursor=pointer]:
+        - generic [ref=e1427]:
+          - img "Made a tape player to take a break from island designing. Like other home-y props players drag and drop their own music" [ref=e1428]
+          - generic:
+            - img
+        - generic [ref=e1429]:
+          - heading "Made a tape player to take a break from island designing. Like other home-y props players drag and drop their own music" [level=3] [ref=e1430]
+          - paragraph [ref=e1431]: "Made a tape player to take a break from island designing. Like other home-y props players drag and drop their own music in game. #ScreenshotSaturday #godot #indiedev #gamedev"
+          - generic [ref=e1432]:
+            - generic [ref=e1433]: "@Gert"
+            - generic [ref=e1434]: mastodon
+            - generic [ref=e1435]: May 2, 2026
+          - link "View on Mastodon" [ref=e1436]:
+            - /url: https://mastodon.gamedev.place/@gertkeno/116505962741264401
+            - text: View on Mastodon
+            - img [ref=e1437]
+      - article [ref=e1439] [cursor=pointer]:
+        - 'img "Wishlist now on Steam: https://store.steampowered.com/app/4272040/The_Moon_my_Destination/ Next week is making the new t" [ref=e1441]'
+        - generic [ref=e1442]:
+          - 'heading "Wishlist now on Steam: https://store.steampowered.com/app/4272040/The_Moon_my_Destination/ Next week is making the new t" [level=3] [ref=e1443]'
+          - paragraph [ref=e1444]: "Wishlist now on Steam: https://store.steampowered.com/app/4272040/The_Moon_my_Destination/ Next week is making the new trailer with all three game modes on show! #screenshotsaturday #tmmd #miat #runne"
+          - generic [ref=e1445]:
+            - generic [ref=e1446]: "@Make it a Triple Games"
+            - generic [ref=e1447]: mastodon
+            - generic [ref=e1448]: May 2, 2026
+          - link "View on Mastodon" [ref=e1449]:
+            - /url: https://mastodon.gamedev.place/@Ranarh/116505945293456351
+            - text: View on Mastodon
+            - img [ref=e1450]
+      - article [ref=e1452] [cursor=pointer]:
+        - generic [ref=e1453]:
+          - 'img "Getting much closer to the playtest phase of my #Quake episode. Five maps are near complete. Then I have to finish the b" [ref=e1454]'
+          - generic [ref=e1455]:
+            - img [ref=e1456]
+            - text: "3"
+        - generic [ref=e1460]:
+          - 'heading "Getting much closer to the playtest phase of my #Quake episode. Five maps are near complete. Then I have to finish the b" [level=3] [ref=e1461]'
+          - paragraph [ref=e1462]: "Getting much closer to the playtest phase of my #Quake episode. Five maps are near complete. Then I have to finish the boss and start map. #screenshotsaturday #leveldesign #gamedev"
+          - generic [ref=e1463]:
+            - generic [ref=e1464]: "@ChrisHolden"
+            - generic [ref=e1465]: mastodon
+            - generic [ref=e1466]: May 2, 2026
+          - link "View on Mastodon" [ref=e1467]:
+            - /url: https://mastodon.social/@ChrisHolden/116505933186782867
+            - text: View on Mastodon
+            - img [ref=e1468]
+      - article [ref=e1470] [cursor=pointer]:
+        - 'img "Diegetic Interface Design - a nightmare to make but maximum satisfaction at the end 🤠 Made this for \"Cards N Zombies\" #" [ref=e1472]'
+        - generic [ref=e1473]:
+          - 'heading "Diegetic Interface Design - a nightmare to make but maximum satisfaction at the end 🤠 Made this for \"Cards N Zombies\" #" [level=3] [ref=e1474]'
+          - paragraph [ref=e1475]: "Diegetic Interface Design - a nightmare to make but maximum satisfaction at the end 🤠 Made this for \"Cards N Zombies\" #screenshotsaturday #roguelike #deckbuilder #diegetic"
+          - generic [ref=e1476]:
+            - generic [ref=e1477]: "@16BitNights"
+            - generic [ref=e1478]: mastodon
+            - generic [ref=e1479]: May 2, 2026
+          - link "View on Mastodon" [ref=e1480]:
+            - /url: https://mastodon.social/@16bitnights/116505918762074770
+            - text: View on Mastodon
+            - img [ref=e1481]
+      - article [ref=e1483] [cursor=pointer]:
+        - 'img "Dog #screenshotsaturday" [ref=e1485]'
+        - generic [ref=e1486]:
+          - 'heading "Dog #screenshotsaturday" [level=3] [ref=e1487]'
+          - generic [ref=e1488]:
+            - generic [ref=e1489]: "@Jet"
+            - generic [ref=e1490]: mastodon
+            - generic [ref=e1491]: May 2, 2026
+          - link "View on Mastodon" [ref=e1492]:
+            - /url: https://mastodon.social/@JetPoweredGames/116505871226666679
+            - text: View on Mastodon
+            - img [ref=e1493]
+      - article [ref=e1495] [cursor=pointer]:
+        - img "I sometimes lose confidence in my ability to make games, and wallow in depressed idleness for a while. And then I open a" [ref=e1497]
+        - generic [ref=e1498]:
+          - heading "I sometimes lose confidence in my ability to make games, and wallow in depressed idleness for a while. And then I open a" [level=3] [ref=e1499]
+          - paragraph [ref=e1500]: "I sometimes lose confidence in my ability to make games, and wallow in depressed idleness for a while. And then I open a project, see this lil guy and think \"maybe I'll keep going a little longer\" #In"
+          - generic [ref=e1501]:
+            - generic [ref=e1502]: "@Gubbins"
+            - generic [ref=e1503]: mastodon
+            - generic [ref=e1504]: May 2, 2026
+          - link "View on Mastodon" [ref=e1505]:
+            - /url: https://toot.io/@ambimist/116505870896561763
+            - text: View on Mastodon
+            - img [ref=e1506]
+      - article [ref=e1508] [cursor=pointer]:
+        - generic [ref=e1510]:
+          - 'img "Meet the StompEye, one of the creatures you''ll meet in Even Goblins Fall In Love, an indie JRPG for the NES. #indienes #" [ref=e1511]'
+          - generic:
+            - img
+        - generic [ref=e1512]:
+          - 'heading "Meet the StompEye, one of the creatures you''ll meet in Even Goblins Fall In Love, an indie JRPG for the NES. #indienes #" [level=3] [ref=e1513]'
+          - paragraph [ref=e1514]: "Meet the StompEye, one of the creatures you'll meet in Even Goblins Fall In Love, an indie JRPG for the NES. #indienes #gamedev #homebrew #retrogame #nes #nesdev #indieretro #screenshotsaturday"
+          - generic [ref=e1515]:
+            - generic [ref=e1516]: "@Skyboy Games"
+            - generic [ref=e1517]: mastodon
+            - generic [ref=e1518]: May 2, 2026
+          - link "View on Mastodon" [ref=e1519]:
+            - /url: https://mastodon.gamedev.place/@skyboygames/116505866655274982
+            - text: View on Mastodon
+            - img [ref=e1520]
+      - article [ref=e1522] [cursor=pointer]:
+        - generic [ref=e1523]:
+          - img "Check out these screenshots from the beautiful things submitted to the Premium Crayon and Kazoo Jam, then head over here" [ref=e1524]
+          - generic [ref=e1525]:
+            - img [ref=e1526]
+            - text: "4"
+        - generic [ref=e1530]:
+          - heading "Check out these screenshots from the beautiful things submitted to the Premium Crayon and Kazoo Jam, then head over here" [level=3] [ref=e1531]
+          - paragraph [ref=e1532]: "Check out these screenshots from the beautiful things submitted to the Premium Crayon and Kazoo Jam, then head over here to rate the entries themselves: https://itch.io/jam/premium-crayon-and-kazoo-ja"
+          - generic [ref=e1533]:
+            - generic [ref=e1534]: "@Damon L. Wakes"
+            - generic [ref=e1535]: mastodon
+            - generic [ref=e1536]: May 2, 2026
+          - link "View on Mastodon" [ref=e1537]:
+            - /url: https://mastodon.sdf.org/@DamonWakes/116505754938970539
+            - text: View on Mastodon
+            - img [ref=e1538]
+      - article [ref=e1540] [cursor=pointer]:
+        - 'img "This week for #XenithAwakening I went back to my rough sketch of my Lightning element boss, and fleshed out his concept" [ref=e1542]'
+        - generic [ref=e1543]:
+          - 'heading "This week for #XenithAwakening I went back to my rough sketch of my Lightning element boss, and fleshed out his concept" [level=3] [ref=e1544]'
+          - paragraph [ref=e1545]: "This week for #XenithAwakening I went back to my rough sketch of my Lightning element boss, and fleshed out his concept a bit. Drawing out the tesla coil design of his horns and figuring out his feet."
+          - generic [ref=e1546]:
+            - generic [ref=e1547]: "@Akari_Enderwolf"
+            - generic [ref=e1548]: mastodon
+            - generic [ref=e1549]: May 2, 2026
+          - link "View on Mastodon" [ref=e1550]:
+            - /url: https://mastodon.gamedev.place/@Akari_Enderwolf/116505751234022205
+            - text: View on Mastodon
+            - img [ref=e1551]
+      - article [ref=e1553] [cursor=pointer]:
+        - generic [ref=e1555]:
+          - img "Today in the world of being an IndieDev, I did some work on fishing. Fishing involves real physics, not inanely keeping" [ref=e1556]
+          - generic:
+            - img
+        - generic [ref=e1557]:
+          - heading "Today in the world of being an IndieDev, I did some work on fishing. Fishing involves real physics, not inanely keeping" [level=3] [ref=e1558]
+          - paragraph [ref=e1559]: "Today in the world of being an IndieDev, I did some work on fishing. Fishing involves real physics, not inanely keeping a fish centered in a progress bar while tapping. s.team/a/1642630/ #indiegamedev"
+          - generic [ref=e1560]:
+            - generic [ref=e1561]: "@Common Wombat"
+            - generic [ref=e1562]: mastodon
+            - generic [ref=e1563]: May 2, 2026
+          - link "View on Mastodon" [ref=e1564]:
+            - /url: https://mastodon.social/@CommonWombat/116505717252119629
+            - text: View on Mastodon
+            - img [ref=e1565]
+      - article [ref=e1567] [cursor=pointer]:
+        - img "Meet Marbley, a very qualified and confident little fella who wants nothing more than helping you building marble machin" [ref=e1569]
+        - generic [ref=e1570]:
+          - heading "Meet Marbley, a very qualified and confident little fella who wants nothing more than helping you building marble machin" [level=3] [ref=e1571]
+          - paragraph [ref=e1572]: "Meet Marbley, a very qualified and confident little fella who wants nothing more than helping you building marble machines. #godotengine #screenshotsaturday"
+          - generic [ref=e1573]:
+            - generic [ref=e1574]: "@8Bit | :linux: :godot: | 🍶🦊"
+            - generic [ref=e1575]: mastodon
+            - generic [ref=e1576]: May 2, 2026
+          - link "View on Mastodon" [ref=e1577]:
+            - /url: https://mastodon.gamedev.place/@memoriesin8bit/116505534425353776
+            - text: View on Mastodon
+            - img [ref=e1578]
+      - article [ref=e1580] [cursor=pointer]:
+        - generic [ref=e1582]:
+          - 'img "Working on my local map / 3d galaxy map to show various filters and factions. #screenshotsaturday #godot #gamedev #indie" [ref=e1583]'
+          - generic:
+            - img
+        - generic [ref=e1584]:
+          - 'heading "Working on my local map / 3d galaxy map to show various filters and factions. #screenshotsaturday #godot #gamedev #indie" [level=3] [ref=e1585]'
+          - paragraph [ref=e1586]: "Working on my local map / 3d galaxy map to show various filters and factions. #screenshotsaturday #godot #gamedev #indiegames"
+          - generic [ref=e1587]:
+            - generic [ref=e1588]: "@mcgillij :python: :linux:"
+            - generic [ref=e1589]: mastodon
+            - generic [ref=e1590]: May 2, 2026
+          - link "View on Mastodon" [ref=e1591]:
+            - /url: https://fosstodon.org/@mcgillij/116505476114290208
+            - text: View on Mastodon
+            - img [ref=e1592]
+      - article [ref=e1594] [cursor=pointer]:
+        - generic [ref=e1596]:
+          - img "Screenshot Saturday - trying to make this tank game feel like a real battlefield" [ref=e1597]
+          - generic:
+            - img
+        - generic [ref=e1598]:
+          - heading "Screenshot Saturday - trying to make this tank game feel like a real battlefield" [level=3] [ref=e1599]
+          - paragraph [ref=e1600]: Been working on making the map feel less empty and more like a fight is actually happening without me manually forcing every moment. The latest pass is bots using missiles, flares acting as missile d
+          - generic [ref=e1601]:
+            - generic [ref=e1602]: u/Cold_Leader6417
+            - generic [ref=e1603]: r/IndieDev
+            - generic [ref=e1604]: Apr 25, 2026
+          - link "View on Reddit" [ref=e1605]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1svpjlw/screenshot_saturday_trying_to_make_this_tank_game/
+            - text: View on Reddit
+            - img [ref=e1606]
+      - article [ref=e1608] [cursor=pointer]:
+        - generic [ref=e1610]:
+          - 'img "Screenshot Saturday: built enough of this thing to finally see what’s missing" [ref=e1611]'
+          - generic:
+            - img
+        - generic [ref=e1612]:
+          - 'heading "Screenshot Saturday: built enough of this thing to finally see what’s missing" [level=3] [ref=e1613]'
+          - paragraph [ref=e1614]: hi, back again i’ve been building this browser tank game full time for a while now and i’m deep in that part of development where the core idea still makes me smile, but the actual amount of work l
+          - generic [ref=e1615]:
+            - generic [ref=e1616]: u/Cold_Leader6417
+            - generic [ref=e1617]: r/IndieDev
+            - generic [ref=e1618]: Apr 18, 2026
+          - link "View on Reddit" [ref=e1619]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1spaa16/screenshot_saturday_built_enough_of_this_thing_to/
+            - text: View on Reddit
+            - img [ref=e1620]
+      - article [ref=e1622] [cursor=pointer]:
+        - img "I have just found this post.." [ref=e1624]
+        - generic [ref=e1625]:
+          - heading "I have just found this post.." [level=3] [ref=e1626]
+          - generic [ref=e1627]:
+            - generic [ref=e1628]: u/manuelhoss
+            - generic [ref=e1629]: r/IndieGaming
+            - generic [ref=e1630]: Apr 7, 2026
+          - link "View on Reddit" [ref=e1631]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1seztho/i_have_just_found_this_post/
+            - text: View on Reddit
+            - img [ref=e1632]
+      - article [ref=e1634] [cursor=pointer]:
+        - generic [ref=e1636]:
+          - img "Screenshot Saturday - honeymoon period is over lol" [ref=e1637]
+          - generic:
+            - img
+        - generic [ref=e1638]:
+          - heading "Screenshot Saturday - honeymoon period is over lol" [level=3] [ref=e1639]
+          - paragraph [ref=e1640]: Hi fam. i'm new here.\\n\\nI've been tinkering on AdLands full time for the past few months and i'm definitely hitting the part where it feels like I maybe bit off way more than I can chew.\\n\\nA lot
+          - generic [ref=e1641]:
+            - generic [ref=e1642]: u/Cold_Leader6417
+            - generic [ref=e1643]: r/IndieDev
+            - generic [ref=e1644]: Apr 4, 2026
+          - link "View on Reddit" [ref=e1645]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1scnuxv/screenshot_saturday_honeymoon_period_is_over_lol/
+            - text: View on Reddit
+            - img [ref=e1646]
+      - article [ref=e1648] [cursor=pointer]:
+        - generic [ref=e1650]:
+          - 'img "Screenshot Saturday: Rotating the whole board instead of the pieces in my free puzzle game, Antigen Blaster!" [ref=e1651]'
+          - generic:
+            - img
+        - generic [ref=e1652]:
+          - 'heading "Screenshot Saturday: Rotating the whole board instead of the pieces in my free puzzle game, Antigen Blaster!" [level=3] [ref=e1653]'
+          - generic [ref=e1654]:
+            - generic [ref=e1655]: u/realmcalec
+            - generic [ref=e1656]: r/IndieGaming
+            - generic [ref=e1657]: Apr 4, 2026
+          - link "View on Reddit" [ref=e1658]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1sceyb5/screenshot_saturday_rotating_the_whole_board/
+            - text: View on Reddit
+            - img [ref=e1659]
+      - article [ref=e1661] [cursor=pointer]:
+        - generic [ref=e1662]:
+          - img "[Screenshot Saturday] I just released my cozy puzzle game \"Penguin Block\"! 🐧" [ref=e1663]
+          - generic [ref=e1664]:
+            - img [ref=e1665]
+            - text: "4"
+        - generic [ref=e1669]:
+          - heading "[Screenshot Saturday] I just released my cozy puzzle game \"Penguin Block\"! 🐧" [level=3] [ref=e1670]
+          - paragraph [ref=e1671]: Hi everyone! I just released my puzzle game, Penguin Block. It's a simple and relaxing game where you place blocks and clear rows, columns, and 3×3 areas. Here are some screenshots from the game 🐧
+          - generic [ref=e1672]:
+            - generic [ref=e1673]: u/meecreate
+            - generic [ref=e1674]: r/IndieGaming
+            - generic [ref=e1675]: Mar 21, 2026
+          - link "View on Reddit" [ref=e1676]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1rzsy1m/screenshot_saturday_i_just_released_my_cozy/
+            - text: View on Reddit
+            - img [ref=e1677]
+      - article [ref=e1679] [cursor=pointer]:
+        - img "Are we still doing Screenshot Saturday? Anyway, Oceanopolis 2000 now has sharks!" [ref=e1681]
+        - generic [ref=e1682]:
+          - heading "Are we still doing Screenshot Saturday? Anyway, Oceanopolis 2000 now has sharks!" [level=3] [ref=e1683]
+          - generic [ref=e1684]:
+            - generic [ref=e1685]: u/intimidation_crab
+            - generic [ref=e1686]: r/IndieGaming
+            - generic [ref=e1687]: Mar 14, 2026
+          - link "View on Reddit" [ref=e1688]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1rtiwrd/are_we_still_doing_screenshot_saturday_anyway/
+            - text: View on Reddit
+            - img [ref=e1689]
+      - article [ref=e1691] [cursor=pointer]:
+        - 'img "It''s #ScreenshotSaturday time! 📸" [ref=e1693]'
+        - generic [ref=e1694]:
+          - 'heading "It''s #ScreenshotSaturday time! 📸" [level=3] [ref=e1695]'
+          - paragraph [ref=e1696]: Go check out our Steam page for [Ashore &amp; Away](https://store.steampowered.com/app/3838200/Ashore__Away)
+          - generic [ref=e1697]:
+            - generic [ref=e1698]: u/MonkeysMirror
+            - generic [ref=e1699]: r/IndieGaming
+            - generic [ref=e1700]: Feb 28, 2026
+          - link "View on Reddit" [ref=e1701]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1rhc2a9/its_screenshotsaturday_time/
+            - text: View on Reddit
+            - img [ref=e1702]
+      - article [ref=e1704] [cursor=pointer]:
+        - img "After 5 years of development, I released my indie RPG. It went poorly. Here's the breakdown." [ref=e1706]
+        - generic [ref=e1707]:
+          - heading "After 5 years of development, I released my indie RPG. It went poorly. Here's the breakdown." [level=3] [ref=e1708]
+          - paragraph [ref=e1709]: "**About The Game** Genre: Single-player Visual Novel JRPG Release Date: 28 March 2025 Price: $19.99 USD Platform: PC (Steam) Available Languages: English, 日本語 Steam: [https://store.steampowered"
+          - generic [ref=e1710]:
+            - generic [ref=e1711]: u/MirageV_
+            - generic [ref=e1712]: r/gamedev
+            - generic [ref=e1713]: Feb 25, 2026
+          - link "View on Reddit" [ref=e1714]:
+            - /url: https://www.reddit.com/r/gamedev/comments/1refyio/after_5_years_of_development_i_released_my_indie/
+            - text: View on Reddit
+            - img [ref=e1715]
+      - article [ref=e1717] [cursor=pointer]:
+        - generic [ref=e1718]:
+          - img "Screenshots from RPG parody game \"King's Title\", no context" [ref=e1719]
+          - generic [ref=e1720]:
+            - img [ref=e1721]
+            - text: "6"
+        - generic [ref=e1725]:
+          - heading "Screenshots from RPG parody game \"King's Title\", no context" [level=3] [ref=e1726]
+          - paragraph [ref=e1727]: "Happy #ScreenshotSaturday fellow devs."
+          - generic [ref=e1728]:
+            - generic [ref=e1729]: u/GriffonageGames
+            - generic [ref=e1730]: r/IndieDev
+            - generic [ref=e1731]: Feb 21, 2026
+          - link "View on Reddit" [ref=e1732]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1rb94tg/screenshots_from_rpg_parody_game_kings_title_no/
+            - text: View on Reddit
+            - img [ref=e1733]
+      - article [ref=e1735] [cursor=pointer]:
+        - img "Are we still doing Screenshot Saturday? Well, here's mine anyway! ⚓" [ref=e1737]
+        - generic [ref=e1738]:
+          - heading "Are we still doing Screenshot Saturday? Well, here's mine anyway! ⚓" [level=3] [ref=e1739]
+          - paragraph [ref=e1740]: I'll be (hopefully) working on this game in the coming year - depends on a public funding I'm currently applying for, so wish me luck.
+          - generic [ref=e1741]:
+            - generic [ref=e1742]: u/8BitBeard
+            - generic [ref=e1743]: r/IndieGaming
+            - generic [ref=e1744]: Feb 7, 2026
+          - link "View on Reddit" [ref=e1745]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1qyjiah/are_we_still_doing_screenshot_saturday_well_heres/
+            - text: View on Reddit
+            - img [ref=e1746]
+      - article [ref=e1748] [cursor=pointer]:
+        - img "Happy Screenshot Saturday" [ref=e1750]
+        - generic [ref=e1751]:
+          - heading "Happy Screenshot Saturday" [level=3] [ref=e1752]
+          - generic [ref=e1753]:
+            - generic [ref=e1754]: u/pixel_maniacs
+            - generic [ref=e1755]: r/IndieDev
+            - generic [ref=e1756]: Feb 7, 2026
+          - link "View on Reddit" [ref=e1757]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1qye7r3/happy_screenshot_saturday/
+            - text: View on Reddit
+            - img [ref=e1758]
+      - article [ref=e1760] [cursor=pointer]:
+        - img "Happy Screenshot Saturday" [ref=e1762]
+        - generic [ref=e1763]:
+          - heading "Happy Screenshot Saturday" [level=3] [ref=e1764]
+          - generic [ref=e1765]:
+            - generic [ref=e1766]: u/pixel_maniacs
+            - generic [ref=e1767]: r/IndieGaming
+            - generic [ref=e1768]: Feb 7, 2026
+          - link "View on Reddit" [ref=e1769]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1qydy71/happy_screenshot_saturday/
+            - text: View on Reddit
+            - img [ref=e1770]
+      - article [ref=e1772] [cursor=pointer]:
+        - img "Screenshot Saturday!" [ref=e1774]
+        - generic [ref=e1775]:
+          - heading "Screenshot Saturday!" [level=3] [ref=e1776]
+          - generic [ref=e1777]:
+            - generic [ref=e1778]: u/pixel_maniacs
+            - generic [ref=e1779]: r/IndieGaming
+            - generic [ref=e1780]: Jan 31, 2026
+          - link "View on Reddit" [ref=e1781]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1qs2mji/screenshot_saturday/
+            - text: View on Reddit
+            - img [ref=e1782]
+      - article [ref=e1784] [cursor=pointer]:
+        - img "Screenshot Saturday!" [ref=e1786]
+        - generic [ref=e1787]:
+          - heading "Screenshot Saturday!" [level=3] [ref=e1788]
+          - generic [ref=e1789]:
+            - generic [ref=e1790]: u/pixel_maniacs
+            - generic [ref=e1791]: r/IndieDev
+            - generic [ref=e1792]: Jan 31, 2026
+          - link "View on Reddit" [ref=e1793]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1qs2dts/screenshot_saturday/
+            - text: View on Reddit
+            - img [ref=e1794]
+      - article [ref=e1796] [cursor=pointer]:
+        - generic [ref=e1797]:
+          - img "Happy Screenshot-Saturday!" [ref=e1798]
+          - generic [ref=e1799]:
+            - img [ref=e1800]
+            - text: "3"
+        - generic [ref=e1804]:
+          - heading "Happy Screenshot-Saturday!" [level=3] [ref=e1805]
+          - paragraph [ref=e1806]: "Wishlist \"PESKY ORCS!\" on Steam: [https://store.steampowered.com/app/4184880/PESKY\\_ORCS/](https://store.steampowered.com/app/4184880/PESKY_ORCS/) In \"Pesky Orcs!\" you take part in medieval fan"
+          - generic [ref=e1807]:
+            - generic [ref=e1808]: u/Plus_Astronomer1789
+            - generic [ref=e1809]: r/IndieDev
+            - generic [ref=e1810]: Jan 30, 2026
+          - link "View on Reddit" [ref=e1811]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1qr59y2/happy_screenshotsaturday/
+            - text: View on Reddit
+            - img [ref=e1812]
+      - article [ref=e1814] [cursor=pointer]:
+        - img "Predict all games releasing on January 17 based on their Steam pages!" [ref=e1816]
+        - generic [ref=e1817]:
+          - heading "Predict all games releasing on January 17 based on their Steam pages!" [level=3] [ref=e1818]
+          - paragraph [ref=e1819]: Last time, I made predictions for all the games on November 18, and everyone loved it. Two months later, I’m ready to start a new round of predictions! I usually check a game’s Steam page and look at
+          - generic [ref=e1820]:
+            - generic [ref=e1821]: u/Hungry_Mouse737
+            - generic [ref=e1822]: r/gamedev
+            - generic [ref=e1823]: Jan 18, 2026
+          - link "View on Reddit" [ref=e1824]:
+            - /url: https://www.reddit.com/r/gamedev/comments/1qg2xiw/predict_all_games_releasing_on_january_17_based/
+            - text: View on Reddit
+            - img [ref=e1825]
+      - article [ref=e1827] [cursor=pointer]:
+        - 'img "In Battle Gem Ponies we use a Threat Level indicator to gauge the power of ponies in the wild. #ScreenshotSaturday" [ref=e1829]'
+        - generic [ref=e1830]:
+          - 'heading "In Battle Gem Ponies we use a Threat Level indicator to gauge the power of ponies in the wild. #ScreenshotSaturday" [level=3] [ref=e1831]'
+          - paragraph [ref=e1832]: It's meant to make wild encounters more mysterious and fun. Tamed ponies have a Bond level that increases their strength, but wild ones just have varied stats all their own. Jury's still out on whethe
+          - generic [ref=e1833]:
+            - generic [ref=e1834]: u/YotesMark
+            - generic [ref=e1835]: r/IndieDev
+            - generic [ref=e1836]: Jan 3, 2026
+          - link "View on Reddit" [ref=e1837]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1q35caa/in_battle_gem_ponies_we_use_a_threat_level/
+            - text: View on Reddit
+            - img [ref=e1838]
+      - article [ref=e1840] [cursor=pointer]:
+        - 'img "In #BattleGemPonies we use a Threat Level indicator to gauge the power of ponies in the wild. #ScreenshotSaturday" [ref=e1842]'
+        - generic [ref=e1843]:
+          - 'heading "In #BattleGemPonies we use a Threat Level indicator to gauge the power of ponies in the wild. #ScreenshotSaturday" [level=3] [ref=e1844]'
+          - generic [ref=e1845]:
+            - generic [ref=e1846]: u/YotesMark
+            - generic [ref=e1847]: r/IndieGaming
+            - generic [ref=e1848]: Jan 3, 2026
+          - link "View on Reddit" [ref=e1849]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1q318n6/in_battlegemponies_we_use_a_threat_level/
+            - text: View on Reddit
+            - img [ref=e1850]
+      - article [ref=e1852] [cursor=pointer]:
+        - img "How do you Planning, ur Social Media Calendar to organize the presence of your Game" [ref=e1854]
+        - generic [ref=e1855]:
+          - heading "How do you Planning, ur Social Media Calendar to organize the presence of your Game" [level=3] [ref=e1856]
+          - generic [ref=e1857]:
+            - generic [ref=e1858]: u/PositiveKangaro
+            - generic [ref=e1859]: r/IndieDev
+            - generic [ref=e1860]: Dec 27, 2025
+          - link "View on Reddit" [ref=e1861]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1px4uzi/how_do_you_planning_ur_social_media_calendar_to/
+            - text: View on Reddit
+            - img [ref=e1862]
+      - article [ref=e1864] [cursor=pointer]:
+        - img "Saturday screenshot for Savior Syndrome" [ref=e1866]
+        - generic [ref=e1867]:
+          - heading "Saturday screenshot for Savior Syndrome" [level=3] [ref=e1868]
+          - paragraph [ref=e1869]: We’re making the CRPG *Savior Syndrome* in the style of *Disco Elysium*. Sharing a screenshot. We want to add an option to enable a black-and-white filter for deeper immersion into the noir atmosp
+          - generic [ref=e1870]:
+            - generic [ref=e1871]: u/Plenty_Birthday2642
+            - generic [ref=e1872]: r/IndieGaming
+            - generic [ref=e1873]: Dec 20, 2025
+          - link "View on Reddit" [ref=e1874]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1prcmwk/saturday_screenshot_for_savior_syndrome/
+            - text: View on Reddit
+            - img [ref=e1875]
+      - article [ref=e1877] [cursor=pointer]:
+        - generic [ref=e1878]:
+          - img "Saturday screenshot" [ref=e1879]
+          - generic [ref=e1880]:
+            - img [ref=e1881]
+            - text: "2"
+        - generic [ref=e1885]:
+          - heading "Saturday screenshot" [level=3] [ref=e1886]
+          - paragraph [ref=e1887]: "We’re making a narrative CRPG Savior Syndrome: The Crimson Sun. The game has a lot of noir elements. We decided to follow the L.A. Noire approach and give the player the option to enable a black-and"
+          - generic [ref=e1888]:
+            - generic [ref=e1889]: u/Plenty_Birthday2642
+            - generic [ref=e1890]: r/IndieGaming
+            - generic [ref=e1891]: Dec 13, 2025
+          - link "View on Reddit" [ref=e1892]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1pllc4b/saturday_screenshot/
+            - text: View on Reddit
+            - img [ref=e1893]
+      - article [ref=e1895] [cursor=pointer]:
+        - generic [ref=e1896]:
+          - img "Saturday screenshot" [ref=e1897]
+          - generic [ref=e1898]:
+            - img [ref=e1899]
+            - text: "2"
+        - generic [ref=e1903]:
+          - heading "Saturday screenshot" [level=3] [ref=e1904]
+          - paragraph [ref=e1905]: "We’re making a narrative CRPG Savior Syndrome: The Crimson Sun. The game has a lot of noir elements. We decided to follow the L.A. Noire approach and give the player the option to enable a black-and"
+          - generic [ref=e1906]:
+            - generic [ref=e1907]: u/Plenty_Birthday2642
+            - generic [ref=e1908]: r/IndieDev
+            - generic [ref=e1909]: Dec 13, 2025
+          - link "View on Reddit" [ref=e1910]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1pllc1m/saturday_screenshot/
+            - text: View on Reddit
+            - img [ref=e1911]
+      - article [ref=e1913] [cursor=pointer]:
+        - img "Saturday screenshot" [ref=e1915]
+        - generic [ref=e1916]:
+          - heading "Saturday screenshot" [level=3] [ref=e1917]
+          - paragraph [ref=e1918]: As I've written many times, we're creating a game. It's an RPG inspired by Disco Elysium, but in no way is it an attempt to clone it. We're forging our own path, with our own mechanics, atmosphere, an
+          - generic [ref=e1919]:
+            - generic [ref=e1920]: u/Plenty_Birthday2642
+            - generic [ref=e1921]: r/IndieGaming
+            - generic [ref=e1922]: Dec 6, 2025
+          - link "View on Reddit" [ref=e1923]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1pfo3au/saturday_screenshot/
+            - text: View on Reddit
+            - img [ref=e1924]
+      - article [ref=e1926] [cursor=pointer]:
+        - img "Saturday screenshot" [ref=e1928]
+        - generic [ref=e1929]:
+          - heading "Saturday screenshot" [level=3] [ref=e1930]
+          - paragraph [ref=e1931]: As I've written many times, we're creating a game. It's an RPG inspired by Disco Elysium, but in no way is it an attempt to clone it. We're forging our own path, with our own mechanics, atmosphere, an
+          - generic [ref=e1932]:
+            - generic [ref=e1933]: u/Plenty_Birthday2642
+            - generic [ref=e1934]: r/IndieDev
+            - generic [ref=e1935]: Dec 6, 2025
+          - link "View on Reddit" [ref=e1936]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1pfo0ta/saturday_screenshot/
+            - text: View on Reddit
+            - img [ref=e1937]
+      - article [ref=e1939] [cursor=pointer]:
+        - img "Just hit 80,000 wishlists on our game. Here's how..." [ref=e1941]
+        - generic [ref=e1942]:
+          - heading "Just hit 80,000 wishlists on our game. Here's how..." [level=3] [ref=e1943]
+          - paragraph [ref=e1944]: We're a small team of 2 working on an upcoming game called [DEADLINE DELIVERY](https://store.steampowered.com/app/3745310/DEADLINE_DELIVERY/). This is our first real game. When we had first launched o
+          - generic [ref=e1945]:
+            - generic [ref=e1946]: u/MISTKaES
+            - generic [ref=e1947]: r/gamedev
+            - generic [ref=e1948]: Dec 5, 2025
+          - link "View on Reddit" [ref=e1949]:
+            - /url: https://www.reddit.com/r/gamedev/comments/1pepcue/just_hit_80000_wishlists_on_our_game_heres_how/
+            - text: View on Reddit
+            - img [ref=e1950]
+      - article [ref=e1952] [cursor=pointer]:
+        - img "Two-person indie team developing a Soulslike" [ref=e1954]
+        - generic [ref=e1955]:
+          - heading "Two-person indie team developing a Soulslike" [level=3] [ref=e1956]
+          - paragraph [ref=e1957]: "We tried creating a cinematic combat shot — aiming for that “movie moment” feel. 🎬 Focused on timing, and atmosphere to capture the intensity of a duel. \\#ScreenshotSaturday #IndieDev #Soulslike"
+          - generic [ref=e1958]:
+            - generic [ref=e1959]: u/GiantK_Dev
+            - generic [ref=e1960]: r/IndieDev
+            - generic [ref=e1961]: Nov 29, 2025
+          - link "View on Reddit" [ref=e1962]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1p9mbyg/twoperson_indie_team_developing_a_soulslike/
+            - text: View on Reddit
+            - img [ref=e1963]
+      - article [ref=e1965] [cursor=pointer]:
+        - img "Screenshot-Saturday. Yay!" [ref=e1967]
+        - generic [ref=e1968]:
+          - heading "Screenshot-Saturday. Yay!" [level=3] [ref=e1969]
+          - paragraph [ref=e1970]: "\"PESKY ORCS!\" is a mix of RTS, Roguelike and Autobattler-Elements. Wishlist now on Steam: [https://store.steampowered.com/app/4184880/PESKY\\_ORCS/](https://store.steampowered.com/app/4184880/PESKY_"
+          - generic [ref=e1971]:
+            - generic [ref=e1972]: u/Plus_Astronomer1789
+            - generic [ref=e1973]: r/IndieDev
+            - generic [ref=e1974]: Nov 29, 2025
+          - link "View on Reddit" [ref=e1975]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1p9j6gt/screenshotsaturday_yay/
+            - text: View on Reddit
+            - img [ref=e1976]
+      - article [ref=e1978] [cursor=pointer]:
+        - generic [ref=e1979]:
+          - img "Cozy Screenshots from Frozen Ship, our Dynamic Survival Game!" [ref=e1980]
+          - generic [ref=e1981]:
+            - img [ref=e1982]
+            - text: "6"
+        - generic [ref=e1986]:
+          - heading "Cozy Screenshots from Frozen Ship, our Dynamic Survival Game!" [level=3] [ref=e1987]
+          - paragraph [ref=e1988]: It's Screenshot Saturday, so we'd like to share some nice screenshots from our survival game, [**Frozen Ship**](https://store.steampowered.com/app/3423990/Frozen_Ship/). Which vibes are you getting fr
+          - generic [ref=e1989]:
+            - generic [ref=e1990]: u/FrozenShip
+            - generic [ref=e1991]: r/IndieGaming
+            - generic [ref=e1992]: Oct 18, 2025
+          - link "View on Reddit" [ref=e1993]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1o9padk/cozy_screenshots_from_frozen_ship_our_dynamic/
+            - text: View on Reddit
+            - img [ref=e1994]
+      - article [ref=e1996] [cursor=pointer]:
+        - generic [ref=e1998]:
+          - img "Screenshot Saturday, but everyone uploads videos so why the heck not" [ref=e1999]
+          - generic:
+            - img
+        - generic [ref=e2000]:
+          - heading "Screenshot Saturday, but everyone uploads videos so why the heck not" [level=3] [ref=e2001]
+          - paragraph [ref=e2002]: "Shred it up on Steam: [Fretless: The Wrath of Riffson](https://store.steampowered.com/app/2429050/Fretless__The_Wrath_of_Riffson/) Fretless is a turn-based GuitaRPG where instead of swords and shield"
+          - generic [ref=e2003]:
+            - generic [ref=e2004]: u/ritualstudios
+            - generic [ref=e2005]: r/IndieGaming
+            - generic [ref=e2006]: Sep 27, 2025
+          - link "View on Reddit" [ref=e2007]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1nsatg8/screenshot_saturday_but_everyone_uploads_videos/
+            - text: View on Reddit
+            - img [ref=e2008]
+      - article [ref=e2010] [cursor=pointer]:
+        - generic [ref=e2012]:
+          - img "Skill System Implementation | Implementação do Sistema de Skills" [ref=e2013]
+          - generic:
+            - img
+        - generic [ref=e2014]:
+          - heading "Skill System Implementation | Implementação do Sistema de Skills" [level=3] [ref=e2015]
+          - paragraph [ref=e2016]: Hey everyone! We've got our **#ScreenshotSaturday** for you! We've been working on a brand new skill system for the main characters and have already finished a few for the first playable character.
+          - generic [ref=e2017]:
+            - generic [ref=e2018]: u/Nextframestudio
+            - generic [ref=e2019]: r/IndieGaming
+            - generic [ref=e2020]: Sep 27, 2025
+          - link "View on Reddit" [ref=e2021]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1nsar3w/skill_system_implementation_implementação_do/
+            - text: View on Reddit
+            - img [ref=e2022]
+      - article [ref=e2024] [cursor=pointer]:
+        - generic [ref=e2026]:
+          - img "Make it exist, then make it cool! Screenshot Saturday w/ Spires of Morosith" [ref=e2027]
+          - generic:
+            - img
+        - generic [ref=e2028]:
+          - heading "Make it exist, then make it cool! Screenshot Saturday w/ Spires of Morosith" [level=3] [ref=e2029]
+          - paragraph [ref=e2030]: Check out this awesome tower defense game I've been working on! [https://store.steampowered.com/app/3094970/Spires\_of\_Morosith\_Gossamer\_Sundered/](https://store.steampowered.com/app/3094970/Spire
+          - generic [ref=e2031]:
+            - generic [ref=e2032]: u/jdeegz
+            - generic [ref=e2033]: r/IndieGaming
+            - generic [ref=e2034]: Sep 27, 2025
+          - link "View on Reddit" [ref=e2035]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1ns2znv/make_it_exist_then_make_it_cool_screenshot/
+            - text: View on Reddit
+            - img [ref=e2036]
+      - article [ref=e2038] [cursor=pointer]:
+        - generic [ref=e2039]:
+          - 'img "#ScreenshotSaturday: We''ve finalized our demo on Steam." [ref=e2040]'
+          - generic [ref=e2041]:
+            - img [ref=e2042]
+            - text: "4"
+        - generic [ref=e2046]:
+          - 'heading "#ScreenshotSaturday: We''ve finalized our demo on Steam." [level=3] [ref=e2047]'
+          - paragraph [ref=e2048]: Gas Station Case - Inspired by Fears to Fathom and Chilla's Art. Perfect for a quick evening playthrough - it’s short, tense, and takes about **20-30 minutes** to finish.
+          - generic [ref=e2049]:
+            - generic [ref=e2050]: u/Trinavax
+            - generic [ref=e2051]: r/IndieGaming
+            - generic [ref=e2052]: Sep 20, 2025
+          - link "View on Reddit" [ref=e2053]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1nlrvd5/screenshotsaturday_weve_finalized_our_demo_on/
+            - text: View on Reddit
+            - img [ref=e2054]
+      - article [ref=e2056] [cursor=pointer]:
+        - img "It's screenshot saturday and i wanted to share my game :)" [ref=e2058]
+        - generic [ref=e2059]:
+          - heading "It's screenshot saturday and i wanted to share my game :)" [level=3] [ref=e2060]
+          - generic [ref=e2061]:
+            - generic [ref=e2062]: u/sawcissonch
+            - generic [ref=e2063]: r/IndieGaming
+            - generic [ref=e2064]: Aug 30, 2025
+          - link "View on Reddit" [ref=e2065]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1n4bear/its_screenshot_saturday_and_i_wanted_to_share_my/
+            - text: View on Reddit
+            - img [ref=e2066]
+      - article [ref=e2068] [cursor=pointer]:
+        - img "Why isn’t our game catching attention? Looking for honest marketing feedback" [ref=e2070]
+        - generic [ref=e2071]:
+          - heading "Why isn’t our game catching attention? Looking for honest marketing feedback" [level=3] [ref=e2072]
+          - paragraph [ref=e2073]: Hey everyone, We’re working on our first Steam game, and we’ve been sharing screenshots, videos, and even a demo… but the truth is, we’re not seeing much interest or engagement. Here’s what we’ve t
+          - generic [ref=e2074]:
+            - generic [ref=e2075]: u/zero1play
+            - generic [ref=e2076]: r/IndieDev
+            - generic [ref=e2077]: Aug 25, 2025
+          - link "View on Reddit" [ref=e2078]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1mzn7dn/why_isnt_our_game_catching_attention_looking_for/
+            - text: View on Reddit
+            - img [ref=e2079]
+      - article [ref=e2081] [cursor=pointer]:
+        - img "4 dumb mistakes I made on my first game that I’ll never make again" [ref=e2083]
+        - generic [ref=e2084]:
+          - heading "4 dumb mistakes I made on my first game that I’ll never make again" [level=3] [ref=e2085]
+          - paragraph [ref=e2086]: "I dove into my first game thinking “eh, I’ll figure it out as I go.” Spoiler: I did not figure it out lol Here’s the stuff that bit me: * **No clear vision** – I had a vague idea of “mobile game,” b"
+          - generic [ref=e2087]:
+            - generic [ref=e2088]: u/Kevin00812
+            - generic [ref=e2089]: r/IndieDev
+            - generic [ref=e2090]: Aug 15, 2025
+          - link "View on Reddit" [ref=e2091]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1mquj23/4_dumb_mistakes_i_made_on_my_first_game_that_ill/
+            - text: View on Reddit
+            - img [ref=e2092]
+      - article [ref=e2094] [cursor=pointer]:
+        - generic [ref=e2096]:
+          - 'img "#ScreenshotSaturday: Showing off the new Desert battlefield for our medieval card battler" [ref=e2097]'
+          - generic:
+            - img
+        - generic [ref=e2098]:
+          - 'heading "#ScreenshotSaturday: Showing off the new Desert battlefield for our medieval card battler" [level=3] [ref=e2099]'
+          - generic [ref=e2100]:
+            - generic [ref=e2101]: u/AndyWiltshireNZ
+            - generic [ref=e2102]: r/IndieDev
+            - generic [ref=e2103]: Jul 25, 2025
+          - link "View on Reddit" [ref=e2104]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1m9h4xj/screenshotsaturday_showing_off_the_new_desert/
+            - text: View on Reddit
+            - img [ref=e2105]
+      - article [ref=e2107] [cursor=pointer]:
+        - generic [ref=e2109]:
+          - 'img "#ScreenshotSaturday: Crafting the Desert battlefield for our medieval card battler" [ref=e2110]'
+          - generic:
+            - img
+        - generic [ref=e2111]:
+          - 'heading "#ScreenshotSaturday: Crafting the Desert battlefield for our medieval card battler" [level=3] [ref=e2112]'
+          - generic [ref=e2113]:
+            - generic [ref=e2114]: u/AndyWiltshireNZ
+            - generic [ref=e2115]: r/IndieGaming
+            - generic [ref=e2116]: Jul 25, 2025
+          - link "View on Reddit" [ref=e2117]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1m9dfnj/screenshotsaturday_crafting_the_desert/
+            - text: View on Reddit
+            - img [ref=e2118]
+      - article [ref=e2120] [cursor=pointer]:
+        - 'img "Whirlight – No Time To Trip: Hector awaits" [ref=e2122]'
+        - generic [ref=e2123]:
+          - 'heading "Whirlight – No Time To Trip: Hector awaits" [level=3] [ref=e2124]'
+          - paragraph [ref=e2125]: It’s Saturday, and we’re excited to share a brand-new screenshot from [**Whirlight – No Time To Trip**](https://store.steampowered.com/app/2706980/Whirlight__No_Time_To_Trip/), our upcoming **point-an
+          - generic [ref=e2126]:
+            - generic [ref=e2127]: u/ciro_camera
+            - generic [ref=e2128]: r/IndieDev
+            - generic [ref=e2129]: Jul 19, 2025
+          - link "View on Reddit" [ref=e2130]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1m3sn4l/whirlight_no_time_to_trip_hector_awaits/
+            - text: View on Reddit
+            - img [ref=e2131]
+      - article [ref=e2133] [cursor=pointer]:
+        - 'img "Whirlight – No Time To Trip: Hector awaits" [ref=e2135]'
+        - generic [ref=e2136]:
+          - 'heading "Whirlight – No Time To Trip: Hector awaits" [level=3] [ref=e2137]'
+          - paragraph [ref=e2138]: It’s Saturday, and we’re excited to share a brand-new screenshot from[ Whirlight – No Time To Trip](https://store.steampowered.com/app/2706980/Whirlight__No_Time_To_Trip/), our upcoming **point-and-cl
+          - generic [ref=e2139]:
+            - generic [ref=e2140]: u/ciro_camera
+            - generic [ref=e2141]: r/IndieGaming
+            - generic [ref=e2142]: Jul 19, 2025
+          - link "View on Reddit" [ref=e2143]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1m3slnz/whirlight_no_time_to_trip_hector_awaits/
+            - text: View on Reddit
+            - img [ref=e2144]
+      - article [ref=e2146] [cursor=pointer]:
+        - generic [ref=e2148]:
+          - img "Creating the new snow battlefield for our card battler" [ref=e2149]
+          - generic:
+            - img
+        - generic [ref=e2150]:
+          - heading "Creating the new snow battlefield for our card battler" [level=3] [ref=e2151]
+          - paragraph [ref=e2152]: Screenshot Saturday update with our new Snow Battlefield for our card battler *Blades, Bows &amp; Magic*. Using a mix of 3D enviro models + pixelizer shader + 2D interface and cards for the visuals.
+          - generic [ref=e2153]:
+            - generic [ref=e2154]: u/AndyWiltshireNZ
+            - generic [ref=e2155]: r/IndieDev
+            - generic [ref=e2156]: Jul 11, 2025
+          - link "View on Reddit" [ref=e2157]:
+            - /url: https://www.reddit.com/r/IndieDev/comments/1lxllfy/creating_the_new_snow_battlefield_for_our_card/
+            - text: View on Reddit
+            - img [ref=e2158]
+      - article [ref=e2160] [cursor=pointer]:
+        - img "From zero experience to selling 50 000+ copies on launch week - Lots of data inside" [ref=e2162]
+        - generic [ref=e2163]:
+          - heading "From zero experience to selling 50 000+ copies on launch week - Lots of data inside" [level=3] [ref=e2164]
+          - paragraph [ref=e2165]: Hey everyone! Like many aspiring game devs, I’ve spent many hours scrolling through r/gamedev, learning from all the amazing threads about development, marketing, and launching a game. I’ve always be
+          - generic [ref=e2166]:
+            - generic [ref=e2167]: u/Slormite_Studios
+            - generic [ref=e2168]: r/gamedev
+            - generic [ref=e2169]: Apr 25, 2025
+          - link "View on Reddit" [ref=e2170]:
+            - /url: https://www.reddit.com/r/gamedev/comments/1k7hr97/from_zero_experience_to_selling_50_000_copies_on/
+            - text: View on Reddit
+            - img [ref=e2171]
+      - article [ref=e2173] [cursor=pointer]:
+        - img "Our game is barely getting any wishlists, got any tips before we refresh it?" [ref=e2175]
+        - generic [ref=e2176]:
+          - heading "Our game is barely getting any wishlists, got any tips before we refresh it?" [level=3] [ref=e2177]
+          - paragraph [ref=e2178]: We created our [steam page](https://store.steampowered.com/app/3278170/Pirate_Survivors/) at around October and have gathered 133 wishlists up to now (12 of which removed their wishlists =\[ ). We ha
+          - generic [ref=e2179]:
+            - generic [ref=e2180]: u/DDevilAAngel
+            - generic [ref=e2181]: r/gamedev
+            - generic [ref=e2182]: Mar 11, 2025
+          - link "View on Reddit" [ref=e2183]:
+            - /url: https://www.reddit.com/r/gamedev/comments/1j8yf8f/our_game_is_barely_getting_any_wishlists_got_any/
+            - text: View on Reddit
+            - img [ref=e2184]
+      - article [ref=e2186] [cursor=pointer]:
+        - img "From 0 to 6,200 Steam Wishlists with NO Budget." [ref=e2188]
+        - generic [ref=e2189]:
+          - heading "From 0 to 6,200 Steam Wishlists with NO Budget." [level=3] [ref=e2190]
+          - paragraph [ref=e2191]: Hello! I’m Paul from Romania. My friend and I are working on [Deadly Quiet](https://store.steampowered.com/app/3419130/Deadly_Quiet/), a 4-player co-op asymmetrical horror game set in the eerie Hoia
+          - generic [ref=e2192]:
+            - generic [ref=e2193]: u/killpillp_
+            - generic [ref=e2194]: r/gamedev
+            - generic [ref=e2195]: Feb 22, 2025
+          - link "View on Reddit" [ref=e2196]:
+            - /url: https://www.reddit.com/r/gamedev/comments/1ivgfh3/from_0_to_6200_steam_wishlists_with_no_budget/
+            - text: View on Reddit
+            - img [ref=e2197]
+      - article [ref=e2199] [cursor=pointer]:
+        - img "How a wholesome review by a Japanese content creator helped with my impostor syndrome" [ref=e2201]
+        - generic [ref=e2202]:
+          - heading "How a wholesome review by a Japanese content creator helped with my impostor syndrome" [level=3] [ref=e2203]
+          - paragraph [ref=e2204]: I am not a game developer by trade or education. I come from a background in the visual arts, but have been very interested in game development for the last 5 years or so. Everything I know about game
+          - generic [ref=e2205]:
+            - generic [ref=e2206]: u/hyperbor_77
+            - generic [ref=e2207]: r/gamedev
+            - generic [ref=e2208]: Jan 23, 2025
+          - link "View on Reddit" [ref=e2209]:
+            - /url: https://www.reddit.com/r/gamedev/comments/1i8dpea/how_a_wholesome_review_by_a_japanese_content/
+            - text: View on Reddit
+            - img [ref=e2210]
+      - article [ref=e2212] [cursor=pointer]:
+        - img "What its like releasing a game below the recommended wishlist amount, 2 weeks after release, I didnt quit my job to make a game - Post-Mortem" [ref=e2214]
+        - generic [ref=e2215]:
+          - heading "What its like releasing a game below the recommended wishlist amount, 2 weeks after release, I didnt quit my job to make a game - Post-Mortem" [level=3] [ref=e2216]
+          - paragraph [ref=e2217]: I feel incredibly happy to have released a video game on Steam. Its completely surreal to see my own game in my steam Library, and to see friends playing it. Anyone that gets a game out there is a suc
+          - generic [ref=e2218]:
+            - generic [ref=e2219]: u/Irishbane
+            - generic [ref=e2220]: r/gamedev
+            - generic [ref=e2221]: Dec 31, 2024
+          - link "View on Reddit" [ref=e2222]:
+            - /url: https://www.reddit.com/r/gamedev/comments/1hqkwnv/what_its_like_releasing_a_game_below_the/
+            - text: View on Reddit
+            - img [ref=e2223]
+      - article [ref=e2225] [cursor=pointer]:
+        - img "\"Learn Tools in French with My New Game - Indo European Languages! | Screenshot Saturday\"" [ref=e2227]
+        - generic [ref=e2228]:
+          - heading "\"Learn Tools in French with My New Game - Indo European Languages! | Screenshot Saturday\"" [level=3] [ref=e2229]
+          - generic [ref=e2230]:
+            - generic [ref=e2231]: u/phantomgamesstudio
+            - generic [ref=e2232]: r/IndieGaming
+            - generic [ref=e2233]: Nov 23, 2024
+          - link "View on Reddit" [ref=e2234]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1gxsd4v/learn_tools_in_french_with_my_new_game_indo/
+            - text: View on Reddit
+            - img [ref=e2235]
+      - article [ref=e2237] [cursor=pointer]:
+        - img "Need to understand when (or If) to approach publishers" [ref=e2239]
+        - generic [ref=e2240]:
+          - heading "Need to understand when (or If) to approach publishers" [level=3] [ref=e2241]
+          - paragraph [ref=e2242]: Hey, everyone! I'm a developer from Belgium who's just "finished" first prototype of his dream game and plan to start promoting parallel with continuing development. I have many years experience in d
+          - generic [ref=e2243]:
+            - generic [ref=e2244]: u/Express-Diet-6783
+            - generic [ref=e2245]: r/gamedev
+            - generic [ref=e2246]: Nov 2, 2024
+          - link "View on Reddit" [ref=e2247]:
+            - /url: https://www.reddit.com/r/gamedev/comments/1ghydlx/need_to_understand_when_or_if_to_approach/
+            - text: View on Reddit
+            - img [ref=e2248]
+      - article [ref=e2250] [cursor=pointer]:
+        - img "Just hit 5k wishlists in a little over 4 months. What worked for me." [ref=e2252]
+        - generic [ref=e2253]:
+          - heading "Just hit 5k wishlists in a little over 4 months. What worked for me." [level=3] [ref=e2254]
+          - paragraph [ref=e2255]: I always liked seeing these type of posts and hope this can give some guidance on your own promotion methods for your game. The game also just today hit Steams most wishlisted upcoming games list. Th
+          - generic [ref=e2256]:
+            - generic [ref=e2257]: u/Mekkablood
+            - generic [ref=e2258]: r/gamedev
+            - generic [ref=e2259]: Sep 30, 2024
+          - link "View on Reddit" [ref=e2260]:
+            - /url: https://www.reddit.com/r/gamedev/comments/1ft8ytq/just_hit_5k_wishlists_in_a_little_over_4_months/
+            - text: View on Reddit
+            - img [ref=e2261]
+      - article [ref=e2263] [cursor=pointer]:
+        - img "#ScreenshotSaturday" [ref=e2265]
+        - generic [ref=e2266]:
+          - heading "#ScreenshotSaturday" [level=3] [ref=e2267]
+          - generic [ref=e2268]:
+            - generic [ref=e2269]: u/FarwoodsGame
+            - generic [ref=e2270]: r/IndieGaming
+            - generic [ref=e2271]: Aug 3, 2024
+          - link "View on Reddit" [ref=e2272]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1ej6oiz/screenshotsaturday/
+            - text: View on Reddit
+            - img [ref=e2273]
+      - article [ref=e2275] [cursor=pointer]:
+        - img "I released my first game and... I feel mixed" [ref=e2277]
+        - generic [ref=e2278]:
+          - heading "I released my first game and... I feel mixed" [level=3] [ref=e2279]
+          - paragraph [ref=e2280]: "Edit: I have updated the game's price, the trailer, some of the screenshots and the about this game section a little since reading all the comments. I've also reactivated the game's demo. Thank you to"
+          - generic [ref=e2281]:
+            - generic [ref=e2282]: u/GiannisMageireuei
+            - generic [ref=e2283]: r/gamedev
+            - generic [ref=e2284]: Jul 29, 2024
+          - link "View on Reddit" [ref=e2285]:
+            - /url: https://www.reddit.com/r/gamedev/comments/1eez40f/i_released_my_first_game_and_i_feel_mixed/
+            - text: View on Reddit
+            - img [ref=e2286]
+      - article [ref=e2288] [cursor=pointer]:
+        - 'img "A stroke of luck: Do NOT under-estimate Indie Sunday / Screenshot Saturday! (Traffic numbers inside)" [ref=e2290]'
+        - generic [ref=e2291]:
+          - 'heading "A stroke of luck: Do NOT under-estimate Indie Sunday / Screenshot Saturday! (Traffic numbers inside)" [level=3] [ref=e2292]'
+          - paragraph [ref=e2293]: We all like to talk about our games. It's no secret that some subreddits are more receptive to developers showing off their work than others. First thing I've learned, it's really important to build
+          - generic [ref=e2294]:
+            - generic [ref=e2295]: u/burge4150
+            - generic [ref=e2296]: r/gamedev
+            - generic [ref=e2297]: Feb 27, 2024
+          - link "View on Reddit" [ref=e2298]:
+            - /url: https://www.reddit.com/r/gamedev/comments/1b1fpah/a_stroke_of_luck_do_not_underestimate_indie/
+            - text: View on Reddit
+            - img [ref=e2299]
+      - article [ref=e2301] [cursor=pointer]:
+        - 'img "Join us for #ScreenShotSaturday and check out some Great Indie Games!!" [ref=e2303]'
+        - generic [ref=e2304]:
+          - 'heading "Join us for #ScreenShotSaturday and check out some Great Indie Games!!" [level=3] [ref=e2305]'
+          - generic [ref=e2306]:
+            - generic [ref=e2307]: u/badfantasyrx
+            - generic [ref=e2308]: r/IndieGaming
+            - generic [ref=e2309]: Dec 2, 2023
+          - link "View on Reddit" [ref=e2310]:
+            - /url: https://www.reddit.com/r/IndieGaming/comments/1890920/join_us_for_screenshotsaturday_and_check_out_some/
+            - text: View on Reddit
+            - img [ref=e2311]
+      - article [ref=e2313] [cursor=pointer]:
+        - img "Next Fest Stats for a not-as-good game" [ref=e2315]
+        - generic [ref=e2316]:
+          - heading "Next Fest Stats for a not-as-good game" [level=3] [ref=e2317]
+          - paragraph [ref=e2318]: I see people posting up a lot of wishlist adds from Next Fest. I figured there are a few of us that weren't as successful, but I think it's still worth sharing so people get a rounded view of Next Fe
+          - generic [ref=e2319]:
+            - generic [ref=e2320]: u/dangerz
+            - generic [ref=e2321]: r/gamedev
+            - generic [ref=e2322]: Oct 17, 2023
+          - link "View on Reddit" [ref=e2323]:
+            - /url: https://www.reddit.com/r/gamedev/comments/17acwa2/next_fest_stats_for_a_notasgood_game/
+            - text: View on Reddit
+            - img [ref=e2324]
+      - article [ref=e2326] [cursor=pointer]:
+        - generic [ref=e2328]:
+          - 'img "🧑🏽‍🎨 For today''s #ScreenshotSaturday we have finally prepared the death animation and sounds of our Player character. ⚰️ ☠️ While his corpse is lying on the ground, the background also gets blacked out and you''ll recognize the Player''s glowing amulet starting to pulse. 📿" [ref=e2329]'
+          - generic:
+            - img
+        - generic [ref=e2330]:
+          - 'heading "🧑🏽‍🎨 For today''s #ScreenshotSaturday we have finally prepared the death animation and sounds of our Player character. ⚰️ ☠️ While his corpse is lying on the ground, the background also gets blacked out and you''ll recognize the Player''s glowing amulet starting to pulse. 📿" [level=3] [ref=e2331]'
+          - generic [ref=e2332]:
+            - generic [ref=e2333]: u/Pentaquin
+            - generic [ref=e2334]: r/ScreenshotSaturday
+            - generic [ref=e2335]: Dec 25, 2021
+          - link "View on Reddit" [ref=e2336]:
+            - /url: https://www.reddit.com/r/ScreenshotSaturday/comments/rof1oa/for_todays_screenshotsaturday_we_have_finally/
+            - text: View on Reddit
+            - img [ref=e2337]
+      - article [ref=e2339] [cursor=pointer]:
+        - generic [ref=e2341]:
+          - img "Added more satisfying boss death this screenshot Saturday" [ref=e2342]
+          - generic:
+            - img
+        - generic [ref=e2343]:
+          - heading "Added more satisfying boss death this screenshot Saturday" [level=3] [ref=e2344]
+          - generic [ref=e2345]:
+            - generic [ref=e2346]: u/Pisces-Studios
+            - generic [ref=e2347]: r/ScreenshotSaturday
+            - generic [ref=e2348]: Oct 23, 2021
+          - link "View on Reddit" [ref=e2349]:
+            - /url: https://www.reddit.com/r/ScreenshotSaturday/comments/qedxqm/added_more_satisfying_boss_death_this_screenshot/
+            - text: View on Reddit
+            - img [ref=e2350]
+      - article [ref=e2352] [cursor=pointer]:
+        - generic [ref=e2354]:
+          - img "Been a little while since I did a screenshot saturday! I'v now got a main menu, NPC text, crafting benches, options menu and health pop ups during battles and a new devlog https://youtu.be/sySjv3M3mFU" [ref=e2355]
+          - generic:
+            - img
+        - generic [ref=e2356]:
+          - heading "Been a little while since I did a screenshot saturday! I'v now got a main menu, NPC text, crafting benches, options menu and health pop ups during battles and a new devlog https://youtu.be/sySjv3M3mFU" [level=3] [ref=e2357]
+          - generic [ref=e2358]:
+            - generic [ref=e2359]: u/ChillinTech
+            - generic [ref=e2360]: r/ScreenshotSaturday
+            - generic [ref=e2361]: Aug 14, 2021
+          - link "View on Reddit" [ref=e2362]:
+            - /url: https://www.reddit.com/r/ScreenshotSaturday/comments/p4865s/been_a_little_while_since_i_did_a_screenshot/
+            - text: View on Reddit
+            - img [ref=e2363]
+      - article [ref=e2365] [cursor=pointer]:
+        - generic [ref=e2367]:
+          - img "Am I still late for the screenshot Saturday? [WIP]" [ref=e2368]
+          - generic:
+            - img
+        - generic [ref=e2369]:
+          - heading "Am I still late for the screenshot Saturday? [WIP]" [level=3] [ref=e2370]
+          - generic [ref=e2371]:
+            - generic [ref=e2372]: u/TheJapsu1
+            - generic [ref=e2373]: r/ScreenshotSaturday
+            - generic [ref=e2374]: May 8, 2021
+          - link "View on Reddit" [ref=e2375]:
+            - /url: https://www.reddit.com/r/ScreenshotSaturday/comments/n7ywpe/am_i_still_late_for_the_screenshot_saturday_wip/
+            - text: View on Reddit
+            - img [ref=e2376]
+      - article [ref=e2378] [cursor=pointer]:
+        - generic [ref=e2380]:
+          - img "Happy Screenshot Saturday everyone ! Singleplayer, split screened, contemplative and puzzle game. You'll have to learn to pay attention everywhere to solve puzzles ! -We're obviously still in alpha and using placeholders-" [ref=e2381]
+          - generic:
+            - img
+        - generic [ref=e2382]:
+          - heading "Happy Screenshot Saturday everyone ! Singleplayer, split screened, contemplative and puzzle game. You'll have to learn to pay attention everywhere to solve puzzles ! -We're obviously still in alpha and using placeholders-" [level=3] [ref=e2383]
+          - generic [ref=e2384]:
+            - generic [ref=e2385]: u/F4ilortrue
+            - generic [ref=e2386]: r/ScreenshotSaturday
+            - generic [ref=e2387]: Feb 20, 2021
+          - link "View on Reddit" [ref=e2388]:
+            - /url: https://www.reddit.com/r/ScreenshotSaturday/comments/loe33o/happy_screenshot_saturday_everyone_singleplayer/
+            - text: View on Reddit
+            - img [ref=e2389]
+      - article [ref=e2391] [cursor=pointer]:
+        - img "Saturated Outer Space | Saturday Screenshot" [ref=e2393]
+        - generic [ref=e2394]:
+          - heading "Saturated Outer Space | Saturday Screenshot" [level=3] [ref=e2395]
+          - generic [ref=e2396]:
+            - generic [ref=e2397]: u/mvmvgames
+            - generic [ref=e2398]: r/ScreenshotSaturday
+            - generic [ref=e2399]: Feb 6, 2021
+          - link "View on Reddit" [ref=e2400]:
+            - /url: https://www.reddit.com/r/ScreenshotSaturday/comments/le78mq/saturated_outer_space_saturday_screenshot/
+            - text: View on Reddit
+            - img [ref=e2401]
+      - article [ref=e2403] [cursor=pointer]:
+        - img "Saturated Outer Space | Saturday Screenshot" [ref=e2405]
+        - generic [ref=e2406]:
+          - heading "Saturated Outer Space | Saturday Screenshot" [level=3] [ref=e2407]
+          - generic [ref=e2408]:
+            - generic [ref=e2409]: u/mvmvgames
+            - generic [ref=e2410]: r/ScreenshotSaturday
+            - generic [ref=e2411]: Dec 12, 2020
+          - link "View on Reddit" [ref=e2412]:
+            - /url: https://www.reddit.com/r/ScreenshotSaturday/comments/kbx1t9/saturated_outer_space_saturday_screenshot/
+            - text: View on Reddit
+            - img [ref=e2413]
+      - article [ref=e2415] [cursor=pointer]:
+        - generic [ref=e2417]:
+          - 'img "Testing out new photo mode in my daddy-daughter game #ScreenshotSaturday" [ref=e2418]'
+          - generic:
+            - img
+        - generic [ref=e2419]:
+          - 'heading "Testing out new photo mode in my daddy-daughter game #ScreenshotSaturday" [level=3] [ref=e2420]'
+          - generic [ref=e2421]:
+            - generic [ref=e2422]: u/johnnyjacques
+            - generic [ref=e2423]: r/ScreenshotSaturday
+            - generic [ref=e2424]: Nov 14, 2020
+          - link "View on Reddit" [ref=e2425]:
+            - /url: https://www.reddit.com/r/ScreenshotSaturday/comments/ju5sm8/testing_out_new_photo_mode_in_my_daddydaughter/
+            - text: View on Reddit
+            - img [ref=e2426]
+      - article [ref=e2428] [cursor=pointer]:
+        - generic [ref=e2429]:
+          - img "Saturated Outer Space | Saturday Screenshot" [ref=e2430]
+          - generic [ref=e2431]:
+            - img [ref=e2432]
+            - text: "2"
+        - generic [ref=e2436]:
+          - heading "Saturated Outer Space | Saturday Screenshot" [level=3] [ref=e2437]
+          - generic [ref=e2438]:
+            - generic [ref=e2439]: u/mvmvgames
+            - generic [ref=e2440]: r/ScreenshotSaturday
+            - generic [ref=e2441]: Nov 7, 2020
+          - link "View on Reddit" [ref=e2442]:
+            - /url: https://www.reddit.com/r/ScreenshotSaturday/comments/jpw5fn/saturated_outer_space_saturday_screenshot/
+            - text: View on Reddit
+            - img [ref=e2443]
+      - article [ref=e2445] [cursor=pointer]:
+        - img "Saturated Outer Space | Saturday Screenshot" [ref=e2447]
+        - generic [ref=e2448]:
+          - heading "Saturated Outer Space | Saturday Screenshot" [level=3] [ref=e2449]
+          - generic [ref=e2450]:
+            - generic [ref=e2451]: u/mvmvgames
+            - generic [ref=e2452]: r/ScreenshotSaturday
+            - generic [ref=e2453]: Oct 17, 2020
+          - link "View on Reddit" [ref=e2454]:
+            - /url: https://www.reddit.com/r/ScreenshotSaturday/comments/jd1va5/saturated_outer_space_saturday_screenshot/
+            - text: View on Reddit
+            - img [ref=e2455]
+      - article [ref=e2457] [cursor=pointer]:
+        - img "Saturated Outer Space | Saturday Screenshot" [ref=e2459]
+        - generic [ref=e2460]:
+          - heading "Saturated Outer Space | Saturday Screenshot" [level=3] [ref=e2461]
+          - generic [ref=e2462]:
+            - generic [ref=e2463]: u/mvmvgames
+            - generic [ref=e2464]: r/ScreenshotSaturday
+            - generic [ref=e2465]: Oct 10, 2020
+          - link "View on Reddit" [ref=e2466]:
+            - /url: https://www.reddit.com/r/ScreenshotSaturday/comments/j8sp1p/saturated_outer_space_saturday_screenshot/
+            - text: View on Reddit
+            - img [ref=e2467]
+      - article [ref=e2469] [cursor=pointer]:
+        - img "Saturated Outer Space | Saturday Screenshot" [ref=e2471]
+        - generic [ref=e2472]:
+          - heading "Saturated Outer Space | Saturday Screenshot" [level=3] [ref=e2473]
+          - generic [ref=e2474]:
+            - generic [ref=e2475]: u/mvmvgames
+            - generic [ref=e2476]: r/ScreenshotSaturday
+            - generic [ref=e2477]: Sep 26, 2020
+          - link "View on Reddit" [ref=e2478]:
+            - /url: https://www.reddit.com/r/ScreenshotSaturday/comments/j09td1/saturated_outer_space_saturday_screenshot/
+            - text: View on Reddit
+            - img [ref=e2479]
+      - article [ref=e2481] [cursor=pointer]:
+        - img "Saturated Outer Space | Saturday Screenshot" [ref=e2483]
+        - generic [ref=e2484]:
+          - heading "Saturated Outer Space | Saturday Screenshot" [level=3] [ref=e2485]
+          - generic [ref=e2486]:
+            - generic [ref=e2487]: u/mvmvgames
+            - generic [ref=e2488]: r/ScreenshotSaturday
+            - generic [ref=e2489]: Sep 19, 2020
+          - link "View on Reddit" [ref=e2490]:
+            - /url: https://www.reddit.com/r/ScreenshotSaturday/comments/iw08fh/saturated_outer_space_saturday_screenshot/
+            - text: View on Reddit
+            - img [ref=e2491]
+  - contentinfo [ref=e2495]:
+    - paragraph [ref=e2496]:
+      - text: Aggregating
+      - strong [ref=e2497]: "#screenshotsaturday"
+      - text: "&"
+      - strong [ref=e2498]: "#gamedev"
+      - text: from Reddit, Bluesky and Mastodon.
